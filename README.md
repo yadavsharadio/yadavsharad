@@ -1,4 +1,4 @@
-<center> # Welcome to My Data Science Journey!  </center>
+# Welcome to My Data Science Journey! 
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200px" alt="Data Science Gif">
