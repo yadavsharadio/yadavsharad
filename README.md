@@ -1,7 +1,7 @@
 # Welcome to My Data Science Journey! 
 
 <div align="center">
-  <img src="https://pin.it/3Y7BnIsUa" width="200px" alt="Data Science Gif">
+  <img src="https://drive.google.com/file/d/1D-hkTOBgO8c736wn8bb1v1VSl6NcjDLM/view?usp=drivesdk" width="200px" alt="Data Science Gif">
   <h1>Hi, I'm <span style="color: #00ff88;">YADAV SHARAD</span> 👨‍💻</h1>
   <h3>Data Scientist || Research Analyst || Python</h3>
 </div>
