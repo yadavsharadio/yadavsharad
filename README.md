@@ -2,9 +2,8 @@
 <h2><i>Welcome to My Data Science Journey!</i></h2>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200px" alt="Data Science Gif">
-  <h3><i>Hi, Myself <span style="color: #00ff88;">YADAV SHARAD</span></i></h3>
+<div>
+  <h3><i>Hi, Myself YADAV SHARAD</i></h3>
   <h6>Data Scientist || Research Analyst || Python</h6>
 </div>
 
