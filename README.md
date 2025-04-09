@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200px" alt="Data Science Gif">
-  <h3>Hi, I'm <span style="color: #00ff88;">YADAV SHARAD</span> 👨‍💻</h3>
-  <h4>Data Scientist || Research Analyst || Python</h4>
+  <h3>Hi, Myself<span style="color: #00ff88;">YADAV SHARAD</span> 👨‍💻</h3>
+  <h6>Data Scientist || Research Analyst || Python</h6>
 </div>
 
 
