@@ -1,5 +1,5 @@
 <div align="center">
-<h2><i>Welcome to My Data Science Journey</i></h2>
+<h2><i>Welcome to My Data Science Journey!</i></h2>
 </div>
 
 <div align="center">
