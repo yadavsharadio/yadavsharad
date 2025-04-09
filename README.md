@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px">
 </div>
 
-- 🔭 **Currently working on:** Generative AI & Large Language Models  
+- 🔭 **Currently working on:** Research Analyst   
 - 🌱 **Learning:** MLOps & Cloud AI Deployment  
 - 👯 **Looking to collaborate on:** Open Source AI Projects  
 - 💬 **Ask me about:** Machine Learning, Data Visualization, Python  
