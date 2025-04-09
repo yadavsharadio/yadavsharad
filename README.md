@@ -8,7 +8,6 @@
   <h4>Data Scientist || Research Analyst || Python</h4>
 </div>
 
----
 
 ## 🚀 About Me  
 
