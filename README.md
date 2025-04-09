@@ -2,7 +2,7 @@
 <h2><i>Welcome to My Data Science Journey!</i></h2>
 </div>
 
-<div>
+<div align="center">
   <h3><i>Hi, Myself YADAV SHARAD</i></h3>
   <h6>Data Scientist || Research Analyst || Python</h6>
 </div>
