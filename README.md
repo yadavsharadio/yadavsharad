@@ -5,7 +5,7 @@
 ![9c22bae6906caf8dd55d2fe0d882b200.jpg](https://github.com/user-attachments/assets/94bb13a8-6069-4923-ab30-07c8bb547a81)
 
 <div align="center">
-  <h3><i>Hi, Myself YADAV SHARAD</i></h3>
+  <h3>YADAV SHARAD</h3>
   <h6>Data Scientist || Research Analyst || Python</h6>
 </div>
 
