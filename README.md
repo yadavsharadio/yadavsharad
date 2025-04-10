@@ -10,6 +10,7 @@
   <h6>Data Scientist || Research Analyst || Python</h6>
 </div>
 
+---
 
 ## 🚀 About Me  
 
