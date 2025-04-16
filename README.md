@@ -1,9 +1,11 @@
 <div align="center">
-<h2><i>Welcome to My Data Science Journey!</i></h2>
+<h2>Welcome to My Data Science Journey!</h2>
 </div>
 
 
-![9c22bae6906caf8dd55d2fe0d882b200.jpg](https://github.com/user-attachments/assets/94bb13a8-6069-4923-ab30-07c8bb547a81)
+<div align="center">
+  <img src="https://chools.in/wp-content/uploads/dsfm.gif" width="100%">
+</div>
 
 <div align="center">
   <h3>YADAV SHARAD</h3>
