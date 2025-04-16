@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://chools.in/wp-content/uploads/dsfm.gif" width="100%" style="border-radius: 25px">
+  <img src="https://chools.in/wp-content/uploads/dsfm.gif" width="100%">
 </div>
 
 <div align="center">
