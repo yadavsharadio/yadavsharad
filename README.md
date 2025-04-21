@@ -7,10 +7,9 @@
   <img src="https://chools.in/wp-content/uploads/dsfm.gif" width="100%">
 </div>
 
-<div align="center">
-  <h3>YADAV SHARAD</h3>
-  <h6>Data Scientist || Research Analyst || Python</h6>
-</div>
+ # YADAV SHARAD
+ <h6>Data Scientist || Research Analyst || Python</h6>
+
 
 ---
 
