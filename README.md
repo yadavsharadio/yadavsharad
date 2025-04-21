@@ -1,9 +1,4 @@
 <div align="center">
-<h2>Welcome to My Data Science Journey!</h2>
-</div>
-
-
-<div align="center">
   <img src="https://chools.in/wp-content/uploads/dsfm.gif" width="100%">
 </div>
 
