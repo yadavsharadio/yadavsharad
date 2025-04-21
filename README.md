@@ -2,8 +2,10 @@
   <img src="https://chools.in/wp-content/uploads/dsfm.gif" width="100%">
 </div>
 
-### Hey There, I'm Sharad.
+<div align="center">
+### YADAV SHARAD
 <h6>Data Scientist || Research Analyst || Python</h6>
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile">
