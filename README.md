@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=yadavsharadio&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views">
 </div>
 
 ## 🚀 About Me  
