@@ -20,6 +20,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views">
+</div>
+
 ## 🚀 About Me  
 
 <div align="center">
@@ -93,18 +97,8 @@
 ▶️ [Data Visualization with Python](https://youtube.com/link2)  
 ▶️ [Machine Learning Deployment Guide](https://youtube.com/link3)  
 
----
-
-## 📫 Let's Connect!  
 
 
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views">
-  <img src="https://wakatime.com/badge/user/youruserid.svg" alt="WakaTime">
-</div>
 
 ---
 
