@@ -7,8 +7,8 @@
   <img src="https://chools.in/wp-content/uploads/dsfm.gif" width="100%">
 </div>
 
-## Hey There,
-## I'm Sharad.
+## Hey There,##
+## I'm Sharad.##
 
 <h6>Data Scientist || Research Analyst || Python</h6>
 
