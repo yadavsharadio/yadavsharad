@@ -33,11 +33,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing animation">
 </div>
 
-## 👀 Profile Views
+
 
 <div align="center" style="width:100%;">
   <a href="https://github.com/yourusername?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=000000&style=for-the-badge&logo=github" 
+    <img src="https://komarev.com/ghpvc/?username=yadavsharadio&label=PROFILE+VIEWS&color=000000&style=for-the-badge&logo=github" 
          alt="Profile views" 
          style="width:100%; max-width:400px; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
   </a>
