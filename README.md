@@ -6,6 +6,11 @@
   <img src="https://chools.in/wp-content/uploads/dsfm.gif" width="100%">
 </div>
 
+<div align="center">
+<h3>YADAV SHARAD</h3>
+<p>Research Analyst || Data Scientist || Python</p>
+</div>
+
 <div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
