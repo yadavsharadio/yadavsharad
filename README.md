@@ -33,8 +33,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing animation">
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yadavsharadio&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views">
+## 👀 Profile Views
+
+<div align="center" style="width:100%;">
+  <a href="https://github.com/yourusername?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=000000&style=for-the-badge&logo=github" 
+         alt="Profile views" 
+         style="width:100%; max-width:400px; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
+  </a>
+</div>
+
+<div align="center" style="margin-top:10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=000000&background=FFFFFF00&width=100%&lines=Thanks+for+stopping+by!;Let's+connect+and+collaborate" 
+       alt="Typing animation"
+       style="width:100%; max-width:400px;">
 </div>
 
 ## 🚀 About Me  
