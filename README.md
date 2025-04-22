@@ -44,7 +44,7 @@
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=9&duration=3000&pause=1000&color=000000&background=FFFFFF00&width=100%&lines=Thanks+for+stopping+by!;Let's+connect+and+collaborate" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=000000&background=FFFFFF00&width=100%&lines=Thanks+for+stopping+by!;Let's+connect+and+collaborate" 
        alt="Typing animation">
 </div>
 
