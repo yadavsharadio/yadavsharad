@@ -37,7 +37,7 @@
 <h2><b>ABOUT ME</b></h2>
 </div>
 
-<div align="center" style="width:100%; max-width: 40px; margin: 0 auto; padding: 20px; border-radius: 8px; color: #000000; font-family: 'Segoe UI', sans-serif;">
+<div align="center" style="width:100%; max-width: 40px; margin: 0 auto; padding: 20px; border-radius: 8px; color: #ffffff; font-family: 'Segoe UI', sans-serif;">
 
 Currently navigating the world of data as a **Research Analyst** at **Fuel Intelligence**, where I transform raw information into actionable insights through statistical modeling and rigorous analysis.  
 
