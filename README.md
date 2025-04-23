@@ -46,11 +46,9 @@ I'm now channeling this analytical foundation toward my goal of becoming a **Dat
 The bridge between these roles is built with Python, SQL, and data storytelling techniques. I'm particularly fascinated by how machine learning can elevate traditional research methodologies to create more impactful, data-driven decisions.  
 
 </div>
-
-- 🔭 **Currently working on:** Research Analyst   
+---
 - 🌱 **Learning:** MLOps & Cloud AI Deployment  
 - 👯 **Looking to collaborate on:** Open Source AI Projects  
-- 💬 **Ask me about:** Machine Learning, Data Visualization, Python  
 - ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!  
 
 ---
@@ -68,7 +66,7 @@ The bridge between these roles is built with Python, SQL, and data storytelling 
 ### **Data Tools**  
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas)  ![Spark](https://img.shields.io/badge/-Spark-000000?style=flat-square&logo=apachespark)  
 
-### **Visualization**  
+### **Data Visualization**  
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=matplotlib)  ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square)  
 
 ### **Deployment**  
