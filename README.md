@@ -117,12 +117,12 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 ## 📈 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&theme=radical&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavsharadio&theme=radical" width="48%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavsharadio&theme=react-dark&hide_border=true" width="90%">
 </div>
 
 ---
