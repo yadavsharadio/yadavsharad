@@ -34,12 +34,12 @@
 </div>
 
 <div align="center">
-<h2>ABOUT ME</h2>
+<h2><b>ABOUT ME</b></h2>
 </div>
 
 <div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; border-radius: 8px; color: #000000; font-family: 'Segoe UI', sans-serif;">
 
-Currently navigating the world of data as a **Research Analyst** at [Company/Institution], where I transform raw information into actionable insights through statistical modeling and rigorous analysis. My days are spent uncovering patterns in data and communicating findings through clear visualizations and reports.  
+Currently navigating the world of data as a **Research Analyst** at **Fuel Intelligence**, where I transform raw information into actionable insights through statistical modeling and rigorous analysis.  
 
 I'm now channeling this analytical foundation toward my goal of becoming a **Data Scientist**. This transition involves deepening my expertise in machine learning algorithms, predictive modeling, and data engineering - skills I'm actively developing through projects and coursework.  
 
