@@ -37,7 +37,7 @@
 <h2><b>ABOUT ME</b></h2>
 </div>
 
-<div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; border-radius: 8px; color: #000000; font-family: 'Segoe UI', sans-serif;">
+<div align="center" style="max-width: 500px; margin: 0 auto; padding: 20px; border-radius: 8px; color: #000000; font-family: 'Segoe UI', sans-serif;">
 
 Currently navigating the world of data as a **Research Analyst** at **Fuel Intelligence**, where I transform raw information into actionable insights through statistical modeling and rigorous analysis.  
 
@@ -45,13 +45,9 @@ I'm now channeling this analytical foundation toward my goal of becoming a **Dat
 
 The bridge between these roles is built with Python, SQL, and data storytelling techniques. I'm particularly fascinated by how machine learning can elevate traditional research methodologies to create more impactful, data-driven decisions.  
 
-</div>
----
-- 🌱 **Learning:** MLOps & Cloud AI Deployment  
-- 👯 **Looking to collaborate on:** Open Source AI Projects  
-- ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!  
+Also learning and gaining knowledge of MLOps & Could AI Development. Always open to collaborate on Open Source AI Projects. 
 
----
+</div>
 
 ## 🛠️ Tech Stack  
 
