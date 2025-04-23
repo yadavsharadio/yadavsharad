@@ -29,7 +29,7 @@
   <a href="https://github.com/yadavsharadio?tab=repositories">
     <img src="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=000000&style=for-the-badge&logo=github" 
          alt="Profile views" 
-         style=" width:60px height:30px; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
+         style=" width:60px height:30px; display:block; margin:0 auto; border:2px solid #000; border-radius:25px;">
   </a>
 </div>
 
