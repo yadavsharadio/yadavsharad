@@ -24,9 +24,7 @@
   <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://medium.com/@yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
+  
 </div>
 
 
