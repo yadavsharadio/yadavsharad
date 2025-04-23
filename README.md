@@ -37,7 +37,20 @@
   </a>
 </div>
 
+## About Me
 
+<div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; border-radius: 8px; color: #000000; font-family: 'Segoe UI', sans-serif;">
+
+Currently navigating the world of data as a **Research Analyst** at [Company/Institution], where I transform raw information into actionable insights through statistical modeling and rigorous analysis. My days are spent uncovering patterns in data and communicating findings through clear visualizations and reports.  
+
+I'm now channeling this analytical foundation toward my goal of becoming a **Data Scientist**. This transition involves deepening my expertise in machine learning algorithms, predictive modeling, and data engineering - skills I'm actively developing through projects and coursework.  
+
+The bridge between these roles is built with Python, SQL, and data storytelling techniques. I'm particularly fascinated by how machine learning can elevate traditional research methodologies to create more impactful, data-driven decisions.  
+
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=000000&background=FFFFFF00&width=100%&lines=From+research+questions+to+machine+learning+solutions;
 
 ## 🚀 About Me  
 
