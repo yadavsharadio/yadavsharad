@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-<h2>About Me</h2>
+<h2>ABOUT ME</h2>
 </div>
 
 <div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; border-radius: 8px; color: #000000; font-family: 'Segoe UI', sans-serif;">
@@ -47,16 +47,6 @@ The bridge between these roles is built with Python, SQL, and data storytelling 
 
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=000000&background=FFFFFF00&width=100%&lines=From+research+questions+to+machine+learning+solutions;Every+dataset+tells+a+story+worth+exploring" alt="Typing animation">
-</div>
-
-## 🚀 About Me  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px">
-</div>
-
 - 🔭 **Currently working on:** Research Analyst   
 - 🌱 **Learning:** MLOps & Cloud AI Deployment  
 - 👯 **Looking to collaborate on:** Open Source AI Projects  
@@ -67,10 +57,31 @@ The bridge between these roles is built with Python, SQL, and data storytelling 
 
 ## 🛠️ Tech Stack  
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=2&line1=python,pandas,numpy,scikit-learn,tensorflow,pytorch&line2=flask,fastapi,docker,aws,git,spark&theme=radical" alt="Tech Stack">
-</div>
+<div align="center" style="font-family: 'Segoe UI', sans-serif;">
 
+### **Languages & Data**  
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)  
+![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r)  
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql)  
+
+### **Machine Learning**  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000000?style=flat-square&logo=scikit-learn)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch)  
+
+### **Data Tools**  
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas)  
+![Spark](https://img.shields.io/badge/-Spark-000000?style=flat-square&logo=apachespark)  
+
+### **Visualization**  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=matplotlib)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square)  
+
+### **Deployment**  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)  
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)  
+
+</div>
 ---
 
 ## 📌 Featured Projects  
