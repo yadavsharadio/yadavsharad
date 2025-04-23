@@ -48,7 +48,8 @@ The bridge between these roles is built with Python, SQL, and data storytelling 
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=000000&background=FFFFFF00&width=100%&lines=From+research+questions+to+machine+learning+solutions;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=000000&background=FFFFFF00&width=100%&lines=From+research+questions+to+machine+learning+solutions;Every+dataset+tells+a+story+worth+exploring" alt="Typing animation">
+</div>
 
 ## 🚀 About Me  
 
