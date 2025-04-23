@@ -29,10 +29,6 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing animation">
-</div>
-
 
 
 <div align="center" style="width:100%;">
@@ -125,8 +121,6 @@
 
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150px">
-  <p>Thanks for visiting! Let's create something amazing together ✨</p>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing animation">
 </div>
