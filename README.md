@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-<h3>About Me</h3>
+<h2>About Me</h2>
 </div>
 
 <div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; border-radius: 8px; color: #000000; font-family: 'Segoe UI', sans-serif;">
