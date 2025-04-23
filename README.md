@@ -1,7 +1,3 @@
-
-
-
-
 <div align="center">
   <img src="https://chools.in/wp-content/uploads/dsfm.gif" width="100%">
 </div>
@@ -37,7 +33,7 @@
   </a>
 </div>
 
-<div align="center>
+<div align="center">
 <h3>About Me</h3>
 </div>
 
