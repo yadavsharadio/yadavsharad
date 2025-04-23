@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/yadavsharadio" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
@@ -26,8 +26,8 @@
 
 
 <div align="center" style="width:100%;">
-  <a href="https://github.com/yourusername?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=yadavsharadio&label=PROFILE+VIEWS&color=000000&style=for-the-badge&logo=github" 
+  <a href="https://github.com/yadavsharadio?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=yadavsharad&label=PROFILE+VIEWS&color=000000&style=for-the-badge&logo=github" 
          alt="Profile views" 
          style="height:30px; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
   </a>
