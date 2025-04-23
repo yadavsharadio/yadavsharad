@@ -27,7 +27,7 @@
 
 <div align="center" style="width:100%;">
   <a href="https://github.com/yadavsharadio?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=yadavsharadio&label=PROFILE+VIEWS&color=000000&style=for-the-badge&logo=github" 
+    <img src="https://komarev.com/ghpvc/?username=&label=PROFILE+VIEWS&color=000000&style=for-the-badge&logo=github" 
          alt="Profile views" 
          style=" width:60px height:30px; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
   </a>
@@ -37,7 +37,7 @@
 <h2><b>ABOUT ME</b></h2>
 </div>
 
-<div align="center" style="width:100%; max-width: 400px; margin: 0 auto; padding: 20px; border-radius: 8px; color: #000000; font-family: 'Segoe UI', sans-serif;">
+<div align="center" style="width:100%; max-width: 40px; margin: 0 auto; padding: 20px; border-radius: 8px; color: #000000; font-family: 'Segoe UI', sans-serif;">
 
 Currently navigating the world of data as a **Research Analyst** at **Fuel Intelligence**, where I transform raw information into actionable insights through statistical modeling and rigorous analysis.  
 
