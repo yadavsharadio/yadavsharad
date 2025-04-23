@@ -35,14 +35,11 @@
   <a href="https://github.com/yourusername?tab=repositories">
     <img src="https://komarev.com/ghpvc/?username=yadavsharadio&label=PROFILE+VIEWS&color=000000&style=for-the-badge&logo=github" 
          alt="Profile views" 
-         style="width:100%; max-width:400px; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
+         style="width:100%; max-width:400px; height:80px; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
   </a>
 </div>
 
-<div align="center" style="margin-top:10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=000000&background=FFFFFF00&width=100%&lines=Thanks+for+stopping+by!;Let's+connect+and+collaborate" 
-       alt="Typing animation">
-</div>
+
 
 ## 🚀 About Me  
 
