@@ -35,7 +35,7 @@
   <a href="https://github.com/yourusername?tab=repositories">
     <img src="https://komarev.com/ghpvc/?username=yadavsharadio&label=PROFILE+VIEWS&color=000000&style=for-the-badge&logo=github" 
          alt="Profile views" 
-         style="width:100%; max-width:400px; height:80px; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
+         style="width:100%; max-width:400px; height:40px; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
   </a>
 </div>
 
