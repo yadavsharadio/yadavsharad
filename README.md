@@ -60,9 +60,7 @@ The bridge between these roles is built with Python, SQL, and data storytelling 
 <div align="center" style="font-family: 'Segoe UI', sans-serif;">
 
 ### **Languages & Data**  
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)  
-![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r)  
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql)  
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r)![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql)  
 
 ### **Machine Learning**  
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000000?style=flat-square&logo=scikit-learn)  
