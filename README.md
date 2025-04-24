@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3><b>YADAV SHARAD</b></h3>
+<h2><b>YADAV SHARAD</b></h2>
 <p>Research Analyst || Data Scientist || Python</p>
 </div>
 
