@@ -43,7 +43,16 @@ Currently navigating the world of data as a **Research Analyst** at **Fuel Intel
 I'm now channeling this analytical foundation toward my goal of becoming a **Data Scientist**. This transition involves deepening my expertise in machine learning algorithms, predictive modeling, and data engineering - skills I'm actively developing through projects and coursework.  
 The bridge between these roles is built with Python, SQL, and data storytelling techniques. I'm particularly fascinated by how machine learning can elevate traditional research methodologies to create more impactful, data-driven decisions.  
 Also learning and gaining knowledge of MLOps & Could AI Development. Always open to collaborate on Open Source AI Projects. 
+</div>
 
+## 📄 Resume
+
+<div align="center" style="margin: 30px 0;">
+  <a href="https://example.com/your-resume.pdf" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #000000; color: #ffffff; border: 2px solid #000000; padding: 12px 30px; text-align: center; display: inline-block; font-size: 16px; margin: 10px 5px; cursor: pointer; border-radius: 30px; font-weight: 600; transition: all 0.3s ease; width: 80%; max-width: 250px;">
+      Download Resume
+    </button>
+  </a>
 </div>
 
 </br>
