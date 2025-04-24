@@ -47,27 +47,13 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 </div>
 
 </br>
-</br>
 <div align="center">
 <h2><b>PROGRAMMING SKILLS & TOOLS</b></h2>
 </div>
 
 <div align="center" style="font-family: 'Segoe UI', sans-serif;">
 
-### **Languages & Data**  
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)  ![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r)  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql)  
-
-### **Machine Learning**  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000000?style=flat-square&logo=scikit-learn)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow)  ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch)  
-
-### **Data Tools**  
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas)  ![Spark](https://img.shields.io/badge/-Spark-000000?style=flat-square&logo=apachespark)  
-
-### **Data Visualization**  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=matplotlib)  ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square)  
-
-### **Deployment**  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)  ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)  
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)  ![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r)  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql)  ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000000?style=flat-square&logo=scikit-learn)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow)  ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch)  ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas)  ![Spark](https://img.shields.io/badge/-Spark-000000?style=flat-square&logo=apachespark)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=matplotlib)  ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square)  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)  ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)  
 
 </div>
 
