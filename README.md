@@ -46,6 +46,11 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 </div>
 
+
+<div align="center">
+<h2><b>PROGRAMMING SKILLS & TOOLS</b></h2>
+</div>
+
 ## 🛠️ Tech Stack  
 
 <div align="center" style="font-family: 'Segoe UI', sans-serif;">
