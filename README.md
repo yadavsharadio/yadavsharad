@@ -59,8 +59,11 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 </div>
 
----
-## 🚀 Featured Projects
+
+</br>
+<div align="center">
+<h2><b>FEATURED PROJECTS</b></h2>
+</div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
