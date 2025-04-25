@@ -104,6 +104,11 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 </div>
 
 </div>
+
+---
+
+    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+
 ---
 
 ## 📈 GitHub Stats  
