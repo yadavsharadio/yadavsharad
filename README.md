@@ -131,7 +131,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=7" alt="Trophies">
-</div>
+</div>-->
 
 ---
 
@@ -140,7 +140,6 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 ▶️ [How I Built an AI Chatbot](https://youtube.com/link1)  
 ▶️ [Data Visualization with Python](https://youtube.com/link2)  
 ▶️ [Machine Learning Deployment Guide](https://youtube.com/link3)  
--->
 
 
 <div align="center" style="margin-top: 15px;">
