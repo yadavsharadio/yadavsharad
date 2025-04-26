@@ -78,7 +78,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   <a href="#">View Project →</a>
 </div>
 
-<p align="center">===</p>
+<p align="center">----÷----</p>
 
 <!-- Project 2 -->
 <div>
