@@ -7,7 +7,7 @@
 <p>Research Analyst || Data Scientist || Python</p>
 </div>
 
-<div align="center" style="padding: 100px;">
+<div align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -25,7 +25,7 @@
 
 
 
-<div align="center" style="width:100%;">
+<div align="center">
   <a href="https://github.com/yadavsharadio?tab=repositories">
     <img src="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=000000&style=for-the-badge&logo=github" 
          alt="Profile views" 
@@ -39,7 +39,7 @@
 <h2><b>ABOUT ME</b></h2>
 </div>
 
-<div align="center" style="width:100%; max-width: 40px; margin: 0 auto; padding: 20px; background-color: #fffff0;">
+<div align="center">
 
 Currently navigating the world of data as a **Research Analyst** at **Fuel Intelligence**, where I transform raw information into actionable insights through statistical modeling and rigorous analysis.  
 I'm now channeling this analytical foundation toward my goal of becoming a **Data Scientist**. This transition involves deepening my expertise in machine learning algorithms, predictive modeling, and data engineering - skills I'm actively developing through projects and coursework.  
@@ -53,7 +53,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <h2><b>PROGRAMMING SKILLS & TOOLS</b></h2>
 </div>
 
-<div align="center" style="font-family: 'Segoe UI', sans-serif;">
+<div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)  ![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r)  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql)  ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000000?style=flat-square&logo=scikit-learn)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow)  ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch)  ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas)  ![Spark](https://img.shields.io/badge/-Spark-000000?style=flat-square&logo=apachespark)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=matplotlib)  ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square)  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)  ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)  
 
@@ -65,11 +65,11 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <h2><b>FEATURED PROJECTS</b></h2>
 </div>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+<div align="center">
 
 <!-- Project 1 -->
-<div style="border: 1px solid #000; border-radius: 8px; padding: 20px; background: #fff; color: #000;">
-  <h3 style="margin-top: 0;">🔍 Sentiment Analysis Tool</h3>
+<div>
+  <h3>Sentiment Analysis Tool</h3>
   <p>Built a NLP model using BERT to analyze product reviews with 92% accuracy.</p>
   <div style="margin: 15px 0;">
     <span style="display: inline-block; background: #000; color: #fff; padding: 3px 8px; border-radius: 4px; margin-right: 5px; margin-bottom: 5px; font-size: 12px;">Python</span>
