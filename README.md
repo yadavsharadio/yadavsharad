@@ -65,10 +65,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <h2><b>FEATURED PROJECTS</b></h2>
 </div>
 
----
-
 <div align="center">
-
 <!-- Project 1 -->
 <div>
   <h3>Sentiment Analysis Tool</h3>
@@ -81,7 +78,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   <a href="#">View Project →</a>
 </div>
 
----
+<p align="center">===</p>
 
 <!-- Project 2 -->
 <div>
