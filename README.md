@@ -120,7 +120,17 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavsharadio&theme=react-dark&hide_border=true" width="90%">
 </div>
 
-===
+## 📊 GitHub Analytics
+
+<div align="center" style="margin: 30px 0; color: #000000;">
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&border_radius=8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&border_radius=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&background=ffffff&border=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000)
+
+</div>
 
 ## 🏆 Achievements  
 
