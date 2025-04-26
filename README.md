@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png" width="100%" style="border-radus:10px;">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png" width="100%">
 </div>
 
 <div align="center">
