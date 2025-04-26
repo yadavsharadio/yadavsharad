@@ -73,38 +73,38 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   <p>Built a NLP model using BERT to analyze product reviews with 92% accuracy.</p>
   <div>
     <span style="display: inline-block;">Python</span>
-    <span style="display: inline-block; background: #000; color: #fff; padding: 3px 8px; border-radius: 4px; margin-right: 5px; margin-bottom: 5px; font-size: 12px;">TensorFlow</span>
-    <span style="display: inline-block; background: #000; color: #fff; padding: 3px 8px; border-radius: 4px; margin-right: 5px; margin-bottom: 5px; font-size: 12px;">Flask</span>
+    <span style="display: inline-block;">TensorFlow</span>
+    <span style="display: inline-block;">Flask</span>
   </div>
-  <a href="#" style="text-decoration: none; color: #000; border: 1px solid #000; padding: 5px 10px; border-radius: 4px; display: inline-block; margin-top: 10px;">View Project →</a>
+  <a href="#">View Project →</a>
 </div>
 
 ---
 
 <!-- Project 2 -->
-<div style="border: 1px solid #000; border-radius: 8px; padding: 20px; background: #fff; color: #000;">
-  <h3 style="margin-top: 0;">📈 Sales Forecasting Dashboard</h3>
+<div>
+  <h3>Sales Forecasting Dashboard</h3>
   <p>Time series analysis of retail data with Prophet, achieving 88% prediction accuracy.</p>
   <div style="margin: 15px 0;">
-    <span style="display: inline-block; background: #000; color: #fff; padding: 3px 8px; border-radius: 4px; margin-right: 5px; margin-bottom: 5px; font-size: 12px;">Python</span>
-    <span style="display: inline-block; background: #000; color: #fff; padding: 3px 8px; border-radius: 4px; margin-right: 5px; margin-bottom: 5px; font-size: 12px;">Prophet</span>
-    <span style="display: inline-block; background: #000; color: #fff; padding: 3px 8px; border-radius: 4px; margin-right: 5px; margin-bottom: 5px; font-size: 12px;">Streamlit</span>
+    <span style="display: inline-block;">Python</span>
+    <span style="display: inline-block;">Prophet</span>
+    <span style="display: inline-block;">Streamlit</span>
   </div>
-  <a href="#" style="text-decoration: none; color: #000; border: 1px solid #000; padding: 5px 10px; border-radius: 4px; display: inline-block; margin-top: 10px;">View Project →</a>
+  <a href="#">View Project →</a>
 </div>
 
 ---
 
 <!-- Project 3 -->
-<div style="border: 1px solid #000; border-radius: 8px; padding: 20px; background: #fff; color: #000;">
-  <h3 style="margin-top: 0;">🏥 Patient Readmission Predictor</h3>
+<div>
+  <h3>Patient Readmission Predictor</h3>
   <p>XGBoost model that reduces hospital readmissions by 22% using patient history data.</p>
   <div style="margin: 15px 0;">
-    <span style="display: inline-block; background: #000; color: #fff; padding: 3px 8px; border-radius: 4px; margin-right: 5px; margin-bottom: 5px; font-size: 12px;">Python</span>
-    <span style="display: inline-block; background: #000; color: #fff; padding: 3px 8px; border-radius: 4px; margin-right: 5px; margin-bottom: 5px; font-size: 12px;">XGBoost</span>
-    <span style="display: inline-block; background: #000; color: #fff; padding: 3px 8px; border-radius: 4px; margin-right: 5px; margin-bottom: 5px; font-size: 12px;">SHAP</span>
+    <span style="display: inline-block;">Python</span>
+    <span style="display: inline-block;">XGBoost</span>
+    <span style="display: inline-block;">SHAP</span>
   </div>
-  <a href="#" style="text-decoration: none; color: #000; border: 1px solid #000; padding: 5px 10px; border-radius: 4px; display: inline-block; margin-top: 10px;">View Project →</a>
+  <a href="#">View Project →</a>
 </div>
 
 </div>
