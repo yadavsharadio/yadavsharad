@@ -128,7 +128,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 </div>
 
 ## 🏆 Achievements  
-hide_border=true&border_radius=8
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=7" alt="Trophies">
 </div>
