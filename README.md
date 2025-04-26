@@ -7,7 +7,7 @@
 <p>Research Analyst || Data Scientist || Python</p>
 </div>
 
-<div align="center" style="padding: 20px;">
+<div align="center" style="padding: 100px;">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
