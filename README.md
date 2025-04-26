@@ -122,8 +122,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yadavsharadio&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true&border_radius=8)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&border_radius=8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&border_radius=8)
+<!--
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&border_radius=8)-->
 
 </div>
 
