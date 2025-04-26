@@ -65,6 +65,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <h2><b>FEATURED PROJECTS</b></h2>
 </div>
 
+---
+
 <div align="center">
 
 <!-- Project 1 -->
@@ -109,7 +111,6 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 </div>
 
-
 ---
 
 ## 📈 GitHub Stats  
@@ -138,9 +139,6 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 ▶️ [How I Built an AI Chatbot](https://youtube.com/link1)  
 ▶️ [Data Visualization with Python](https://youtube.com/link2)  
 ▶️ [Machine Learning Deployment Guide](https://youtube.com/link3)  
-
-
-
 
 ---
 <div align="center" style="margin-top: 15px;">
