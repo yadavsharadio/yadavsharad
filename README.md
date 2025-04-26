@@ -124,7 +124,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yadavsharadio&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true&border_radius=8)
 
 <!--
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&border_radius=8)-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&border_radius=8)
 
 </div>
 
@@ -141,8 +141,9 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 ▶️ [How I Built an AI Chatbot](https://youtube.com/link1)  
 ▶️ [Data Visualization with Python](https://youtube.com/link2)  
 ▶️ [Machine Learning Deployment Guide](https://youtube.com/link3)  
+-->
 
----
+
 <div align="center" style="margin-top: 15px;">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=808090&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing animation">
 </div>
