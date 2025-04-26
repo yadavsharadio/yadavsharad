@@ -79,6 +79,9 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   <a href="#" style="text-decoration: none; color: #000; border: 1px solid #000; padding: 5px 10px; border-radius: 4px; display: inline-block; margin-top: 10px;">View Project →</a>
 </div>
 
+---
+
+
 <!-- Project 2 -->
 <div style="border: 1px solid #000; border-radius: 8px; padding: 20px; background: #fff; color: #000;">
   <h3 style="margin-top: 0;">📈 Sales Forecasting Dashboard</h3>
