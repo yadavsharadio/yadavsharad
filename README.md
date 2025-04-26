@@ -1,5 +1,5 @@
 <div align="center">
-![GitHub Streak](https://4kwallpapers.com/images/walls/thumbs_3t/13640.png&hide_border=true&border_radius=8)
+![GitHubStreak](https://4kwallpapers.com/images/walls/thumbs_3t/13640.png&hide_border=true&border_radius=8)
   <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png" width="100%">
 </div>
 
