@@ -71,8 +71,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <div>
   <h3>Sentiment Analysis Tool</h3>
   <p>Built a NLP model using BERT to analyze product reviews with 92% accuracy.</p>
-  <div style="margin: 15px 0;">
-    <span style="display: inline-block; background: #000; color: #fff; padding: 3px 8px; border-radius: 4px; margin-right: 5px; margin-bottom: 5px; font-size: 12px;">Python</span>
+  <div>
+    <span style="display: inline-block;">Python</span>
     <span style="display: inline-block; background: #000; color: #fff; padding: 3px 8px; border-radius: 4px; margin-right: 5px; margin-bottom: 5px; font-size: 12px;">TensorFlow</span>
     <span style="display: inline-block; background: #000; color: #fff; padding: 3px 8px; border-radius: 4px; margin-right: 5px; margin-bottom: 5px; font-size: 12px;">Flask</span>
   </div>
