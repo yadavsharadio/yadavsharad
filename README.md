@@ -91,8 +91,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   </div>
   <a href="#">View Project →</a>
 </div>
-
----
+</br>
+<p align="center">----÷----</p>
 
 <!-- Project 3 -->
 <div>
@@ -107,7 +107,6 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 </div>
 
 </div>
-
 ---
 
 ## 📈 GitHub Stats  
