@@ -133,7 +133,11 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=7" alt="Trophies">
 </div>-->
 
-## 📺 Latest YouTube Videos  
+
+</br>
+<div align="center">
+<h2><b>CERTIFICATIONS</b></h2>
+</div>
 
 ▶️ [How I Built an AI Chatbot](https://youtube.com/link1)  
 ▶️ [Data Visualization with Python](https://youtube.com/link2)  
