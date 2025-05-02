@@ -63,9 +63,9 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <div align="center">
 
 <!-- Project cards with black borders -->
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://github.com/yadavsharadio/Covid-19_Analysis)<!-- Project cards with black borders -->
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://github.com/yadavsharadio/Covid-19_Analysis)<!-- Project cards with black borders -->
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://github.com/yadavsharadio/Covid-19_Analysis)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&border_radius=8)](https://github.com/yadavsharadio/Covid-19_Analysis)<!-- Project cards with black borders -->
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&border_radius=8)](https://github.com/yadavsharadio/Covid-19_Analysis)<!-- Project cards with black borders -->
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&border_radius=8)](https://github.com/yadavsharadio/Covid-19_Analysis)
 
 </div>
 
