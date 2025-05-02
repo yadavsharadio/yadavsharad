@@ -4,10 +4,10 @@
 <div align="center">
 
 <!-- White background with black elements -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true)
 
 <!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&background=ffffff&border=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000)
+![GitHub Streak](https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=ffffff&border=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000)
 
 </div>
 
