@@ -27,7 +27,7 @@
 <div align="center" style="margin-top:30px">
 
 <!-- Project cards with black borders -->
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=REPO_NAME&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://github.com/yadavsharadio/Covid-19_Analysis)
 
 </div>
 
