@@ -1,3 +1,38 @@
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- White background with black elements -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&background=ffffff&border=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000)
+
+</div>
+
+## 🛠️ Technologies
+
+<div align="center" style="margin:20px 0">
+
+<!-- Monochrome skill badges -->
+![Python](https://img.shields.io/badge/-Python-000000?logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?logo=tensorflow)
+![SQL](https://img.shields.io/badge/-SQL-000000?logo=postgresql)
+
+</div>
+
+## 🏆 Featured Projects
+
+<div align="center" style="margin-top:30px">
+
+<!-- Project cards with black borders -->
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://github.com/YOUR_USERNAME/REPO_NAME)
+
+</div>
+
+
+
 <div align="center">
 
   <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png" width="100%">
