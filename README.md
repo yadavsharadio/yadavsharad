@@ -34,8 +34,6 @@
   </a>
 </div>
 
-</br>
-
 <div align="center">
 <h2><b>ABOUT ME</b></h2>
 </div>
@@ -48,8 +46,6 @@ The bridge between these roles is built with Python, SQL, and data storytelling 
 Also learning and gaining knowledge of MLOps & Could AI Development. Always open to collaborate on Open Source AI Projects. 
 </div>
 
-
-</br>
 <div align="center">
 <h2><b>PROGRAMMING SKILLS & TOOLS</b></h2>
 </div>
@@ -60,8 +56,6 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 </div>
 
-
-</br>
 <div align="center">
 <h2><b>FEATURED PROJECTS</b></h2>
 </div>
@@ -74,7 +68,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://github.com/yadavsharadio/Covid-19_Analysis)
 
 </div>
-</br>
+
 <div align="center">
 <h2><b>GITHUB ANALYTICS</b></h2>
 </div>
@@ -91,8 +85,6 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=7" alt="Trophies">
 </div>-->
 
-
-</br>
 <div align="center">
 <h2><b>CERTIFICATIONS</b></h2>
 </div>
