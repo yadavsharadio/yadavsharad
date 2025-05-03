@@ -49,6 +49,14 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 [![Resume](https://img.shields.io/badge/Resume-white?style=for-the-badge&labelColor=000000&color=000000&logo=download)](https://your-resume-link.com)
 
 <div align="center">
+  <a href="https://your-resume-link.com">
+    <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&labelColor=000000&color=000000&logo=download" 
+         alt="Profile views" 
+         style=" width:60px height:30px; display:block; margin:0 auto;">
+  </a>
+</div>
+
+<div align="center">
 <h2><b>PROGRAMMING SKILLS & TOOLS</b></h2>
 </div>
 
