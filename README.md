@@ -50,7 +50,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   <a href="https://your-resume-link.com">
     <img src="https://img.shields.io/badge/View Resume-white?style=for-the-badge&labelColor=000000&color=000000&logo=download" 
          alt="Profile views" 
-         style=" width:80px height:30px; display:block; margin:0 auto;">
+         style=" width:80px height:30px; border-radius:50px; display:block; margin:0 auto;">
   </a>
 </div>
 
