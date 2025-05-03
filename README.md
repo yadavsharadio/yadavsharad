@@ -46,7 +46,7 @@ The bridge between these roles is built with Python, SQL, and data storytelling 
 Also learning and gaining knowledge of MLOps & Could AI Development. Always open to collaborate on Open Source AI Projects. 
 </div>
 
-[![Resume](https://img.shields.io/badge/Resume-white?style=for-the-badge&labelColor=000000&color=000000)](https://your-resume-link.com)
+[![Resume](https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=download&labelColor=000000&color=000000)](https://your-resume-link.com)
 
 <div align="center">
 <h2><b>PROGRAMMING SKILLS & TOOLS</b></h2>
