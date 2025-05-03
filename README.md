@@ -41,8 +41,7 @@
 <div align="center">
 
 Currently navigating the world of data as a **Research Analyst** at **Fuel Intelligence**, where I transform raw information into actionable insights through statistical modeling and rigorous analysis.  
-I'm now channeling this analytical foundation toward my goal of becoming a **Data Scientist**. This transition involves deepening my expertise in machine learning algorithms, predictive modeling, and data engineering - skills I'm actively developing through projects and coursework.  
-The bridge between these roles is built with Python, SQL, and data storytelling techniques. I'm particularly fascinated by how machine learning can elevate traditional research methodologies to create more impactful, data-driven decisions.  
+I'm now channeling this analytical foundation toward my goal of becoming a **Data Scientist**. This transition involves deepening my expertise in machine learning algorithms, predictive modeling, and data engineering - skills I'm actively developing through projects and coursework. The bridge between these roles is built with Python, SQL, and data storytelling techniques. I'm particularly fascinated by how machine learning can elevate traditional research methodologies to create more impactful, data-driven decisions.  
 Also learning and gaining knowledge of MLOps & Could AI Development. Always open to collaborate on Open Source AI Projects. 
 </div>
 
@@ -50,7 +49,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   <a href="https://your-resume-link.com">
     <img src="https://img.shields.io/badge/View Resume-white?style=for-the-badge&labelColor=000000&color=000000&logo=download" 
          alt="Profile views" 
-         style=" width:80px height:30px; border-radius:50px; display:block; margin:0 auto;">
+         style=" width:100px height:30px;">
   </a>
 </div>
 
