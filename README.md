@@ -1,7 +1,7 @@
 
 <div align="right">
   <a href="https://your-resume-link.com"  target="_blank">
-    <img src="https://img.shields.io/badge/View Resume-white?style=for-the-badge&color=ffffff&border=000000">
+    <img src="https://img.shields.io/badge/View Resume-white?style=for-the-badge&color=ffffff">
   </a>
 </div>
 
