@@ -111,3 +111,21 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <div align="center" style="margin-top: 15px;">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=808090&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing animation">
 </div>
+
+
+## 💻 Code Examples
+
+### Python Data Analysis
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load and analyze data
+df = pd.read_csv('data.csv')
+print(df.describe())
+
+# Visualize results
+plt.figure(figsize=(10,6))
+df['value'].plot(kind='hist', bins=20, edgecolor='black')
+plt.title('Data Distribution', fontweight='bold')
+plt.show()
