@@ -89,7 +89,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 ![GitHub Streak](https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&border=ffffff&border_radius=8)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yadavsharadio&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&border=fffff&radius=500%)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&border_radius=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&hide_progress=true&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&border_radius=8)
 
 </div>
 
