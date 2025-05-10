@@ -14,8 +14,10 @@
 
 <div align="center">
 <h2><b>YADAV SHARAD</b></h2>
+<p align="center"><a href="https://yadavsharad.github.io"><img width="80%" alt="Hello, I'm Sharad. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 <p>Research Analyst || Data Scientist || Python</p>
 </div>
+
 
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
