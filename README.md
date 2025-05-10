@@ -111,3 +111,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <div align="center" style="margin-top: 15px;">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=808090&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing animation">
 </div>
+
+<img alt="wave animation" src="images/wave_animation_dark.svg#gh-dark-mode-only">
+<img alt="wave animation" src="images/wave_animation_light.svg#gh-light-mode-only">
+<img alt="" src="images/themed_line_dark.svg#gh-dark-mode-only">
+<img alt="" src="images/themed_line_light.svg#gh-light-mode-only">
