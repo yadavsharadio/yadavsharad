@@ -49,6 +49,7 @@
 
 <div align="center">
 
+```python
 Currently navigating the world of data as a **Research Analyst** at **Fuel Intelligence**, where I transform raw information into actionable insights through statistical modeling and rigorous analysis.  
 I'm now channeling this analytical foundation toward my goal of becoming a **Data Scientist**. This transition involves deepening my expertise in machine learning algorithms, predictive modeling, and data engineering - skills I'm actively developing through projects and coursework. The bridge between these roles is built with Python, SQL, and data storytelling techniques. I'm particularly fascinated by how machine learning can elevate traditional research methodologies to create more impactful, data-driven decisions.  
 Also learning and gaining knowledge of MLOps & Could AI Development. Always open to collaborate on Open Source AI Projects. 
@@ -112,20 +113,3 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=808090&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing animation">
 </div>
 
-
-## 💻 Code Examples
-
-### Python Data Analysis
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-
-# Load and analyze data
-df = pd.read_csv('data.csv')
-print(df.describe())
-
-# Visualize results
-plt.figure(figsize=(10,6))
-df['value'].plot(kind='hist', bins=20, edgecolor='black')
-plt.title('Data Distribution', fontweight='bold')
-plt.show()
