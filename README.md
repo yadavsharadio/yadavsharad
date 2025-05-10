@@ -108,6 +108,3 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <div align="center" style="margin-top: 15px;">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=808090&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing animation">
 </div>
-
-
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&theme=auto&border_radius=8)](https://github.com/yadavsharadio/Covid-19_Analysis)
