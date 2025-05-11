@@ -91,7 +91,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat-square&logo=python#gh-light-mode-only)  ![R](https://img.shields.io/badge/-R-ffffff?style=flat-square&logo=r)  ![SQL](https://img.shields.io/badge/-SQL-ffffff?style=flat-square&logo=postgresql)  ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-ffffff?style=flat-square&logo=scikit-learn)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ffffff?style=flat-square&logo=tensorflow)  ![PyTorch](https://img.shields.io/badge/-PyTorch-ffffff?style=flat-square&logo=pytorch)  ![Pandas](https://img.shields.io/badge/-Pandas-ffffff?style=flat-square&logo=pandas)  ![Spark](https://img.shields.io/badge/-Spark-ffffff?style=flat-square&logo=apachespark)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=matplotlib)  ![Seaborn](https://img.shields.io/badge/-Seaborn-ffffff?style=flat-square)  ![Flask](https://img.shields.io/badge/-Flask-ffffff?style=flat-square&logo=flask)  ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat-square&logo=docker)  
 
 <!--dark-->
-<!--PYTHON--><a href="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python#gh-dark-mode-only"  target="_blank">
+<!--PYTHON-->
+<a href="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python#gh-dark-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python#gh-dark-mode-only">
   </a><!--SQL-->  <a href="https://img.shields.io/badge/-R-000000?style=flat-square&logo=r#gh-dark-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-R-000000?style=flat-square&logo=r#gh-dark-mode-only">
