@@ -22,17 +22,32 @@
 
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<!--light-->
+  <a href="https://linkedin.com/in/yourprofile#gh-light-mode-only" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black#gh-light-mode-only" alt="LinkedIn">
   </a>
-  <a href="https://github.com/yadavsharadio" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/yadavsharadio#gh-light-mode-only" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black#gh-light-mode-only" alt="GitHub">
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:youremail@example.com#gh-light-mode-only" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black#gh-light-mode-only" alt="Email">
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/yourhandle#gh-light-mode-only" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black#gh-light-mode-only" alt="Twitter">
+  </a>
+
+<!--dark-->
+  <a href="https://linkedin.com/in/yourprofile#gh-light-mode-only" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/yadavsharadio#gh-light-mode-only" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white#gh-light-mode-only" alt="GitHub">
+  </a>
+  <a href="mailto:youremail@example.com#gh-light-mode-only" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white#gh-light-mode-only" alt="Email">
+  </a>
+  <a href="https://twitter.com/yourhandle#gh-light-mode-only" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white#gh-light-mode-only" alt="Twitter">
   </a>
   
 </div>
