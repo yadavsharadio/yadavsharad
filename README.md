@@ -1,9 +1,11 @@
 <div align="right">
+<!--light-->
 <a href="https://your-resume-link.com#gh-light-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=ffffff#gh-light-mdoe-only">
+    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=ffffff#gh-light-mode-only">
   </a>
+<!--dark-->
   <a href="https://your-resume-link.com#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=000000#gh-dark-mdoe-only">
+    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=000000#gh-dark-mode-only">
   </a>
 </div>
 
@@ -86,7 +88,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <div align="center">
 <!--light-->
 
-![Python](https://img.shields.io/badge/-Python-ffffff?style=flat-square&logo=python)  ![R](https://img.shields.io/badge/-R-ffffff?style=flat-square&logo=r)  ![SQL](https://img.shields.io/badge/-SQL-ffffff?style=flat-square&logo=postgresql)  ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-ffffff?style=flat-square&logo=scikit-learn)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ffffff?style=flat-square&logo=tensorflow)  ![PyTorch](https://img.shields.io/badge/-PyTorch-ffffff?style=flat-square&logo=pytorch)  ![Pandas](https://img.shields.io/badge/-Pandas-ffffff?style=flat-square&logo=pandas)  ![Spark](https://img.shields.io/badge/-Spark-ffffff?style=flat-square&logo=apachespark)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=matplotlib)  ![Seaborn](https://img.shields.io/badge/-Seaborn-ffffff?style=flat-square)  ![Flask](https://img.shields.io/badge/-Flask-ffffff?style=flat-square&logo=flask)  ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat-square&logo=docker)  
+![Python](https://img.shields.io/badge/-Python-ffffff?style=flat-square&logo=python#gh-light-mode-only)  ![R](https://img.shields.io/badge/-R-ffffff?style=flat-square&logo=r)  ![SQL](https://img.shields.io/badge/-SQL-ffffff?style=flat-square&logo=postgresql)  ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-ffffff?style=flat-square&logo=scikit-learn)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ffffff?style=flat-square&logo=tensorflow)  ![PyTorch](https://img.shields.io/badge/-PyTorch-ffffff?style=flat-square&logo=pytorch)  ![Pandas](https://img.shields.io/badge/-Pandas-ffffff?style=flat-square&logo=pandas)  ![Spark](https://img.shields.io/badge/-Spark-ffffff?style=flat-square&logo=apachespark)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=matplotlib)  ![Seaborn](https://img.shields.io/badge/-Seaborn-ffffff?style=flat-square)  ![Flask](https://img.shields.io/badge/-Flask-ffffff?style=flat-square&logo=flask)  ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat-square&logo=docker)  
 
 <!--dark-->
 
