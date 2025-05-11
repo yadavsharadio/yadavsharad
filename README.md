@@ -71,9 +71,7 @@ alt="Profile views"style=" width:60px height:30px; display:block; margin:0 auto;
 
 <a href="https://github.com/yadavsharadio?tab=repositories">
   <img 
-    src="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=000000&style=for-the-badge"
-    data-theme-light="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=000000&style=for-the-badge"
-    data-theme-dark="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=ffffff&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=000000&style=for-the-badge"data-theme-light="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=000000&style=for-the-badge"
     alt="Profile views"
     style="width: 60px; height: 30px; display: block; margin: 0 auto;">
 </a>
