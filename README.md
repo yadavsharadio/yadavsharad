@@ -1,7 +1,10 @@
 
 <div align="right">
-  <a href="https://your-resume-link.com"  target="_blank">
-    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=000000">
+<a href="https://your-resume-link.com#gh-light-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=000000#gh-light-mdoe-only">
+  </a>
+  <a href="https://your-resume-link.com#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=000000#gh-dark-mdoe-only">
   </a>
 </div>
 
