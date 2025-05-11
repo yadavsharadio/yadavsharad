@@ -94,14 +94,16 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <!--PYTHON-->
 <a href="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python#gh-dark-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python#gh-dark-mode-only">
-  </a><!--SQL-->  <a href="https://img.shields.io/badge/-R-000000?style=flat-square&logo=r#gh-dark-mode-only"  target="_blank">
+  </a><!--R-->  <a href="https://img.shields.io/badge/-R-000000?style=flat-square&logo=r#gh-dark-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-R-000000?style=flat-square&logo=r#gh-dark-mode-only">
-  </a>  <!--Scikit-learn--><a href="https://img.shields.io/badge/-Scikit_Learn-000000?style=flat-square&logo=scikit-learn#gh-dark-mode-only"  target="_blank">
+  </a>  <!--SQL--><a href="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql#gh-dark-mode-only">
+  </a><!--SCIKIT_LEARN-->  <a href="https://img.shields.io/badge/-Scikit_Learn-000000?style=flat-square&logo=scikit-learn#gh-dark-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-Scikit_Learn-000000?style=flat-square&logo=scikit-learn#gh-dark-mode-only">
-  </a><!--tensorflow-->  <a href="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow#gh-dark-mode-only"  target="_blank">
+  </a><!--Tensorflow-->  <a href="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow#gh-dark-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow#gh-dark-mode-only">
-  </a><!--PYTORCH--> <a href="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow#gh-dark-mode-only">
+  </a><!--PYTORCH--> <a href="https://img.shields.io/badge/-Pytorch-000000?style=flat-square&logo=pytorch#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-Pytorch-000000?style=flat-square&logo=pytorch#gh-dark-mode-only">
   </a><!--PANDAS-->  <a href="https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas#gh-dark-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas#gh-dark-mode-only">
   </a>  <!--Spark--><a href="https://img.shields.io/badge/-Spark-000000?style=flat-square&logo=apachespark#gh-dark-mode-only"  target="_blank">
