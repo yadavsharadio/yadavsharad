@@ -55,8 +55,16 @@
 
 
 <div align="center">
-  <a href="https://github.com/yadavsharadio?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=000000&style=for-the-badge&logo=github" 
+<!--light->
+  <a href="https://github.com/yadavsharadio?tab=repositories#gh-light-mode-only">
+    <img src="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=ffffff&style=for-the-badge#gh-light-mode-only" 
+         alt="Profile views" 
+         style=" width:60px height:30px; display:block; margin:0 auto;">
+  </a>
+
+<!--dark-->
+  <a href="https://github.com/yadavsharadio?tab=repositories#gh-dark-mode-only">
+    <img src="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=000000&style=for-the-badge#gh-dark-mode-only" 
          alt="Profile views" 
          style=" width:60px height:30px; display:block; margin:0 auto;">
   </a>
