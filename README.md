@@ -164,12 +164,21 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8#gh-light-mode-only)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=8)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yadavsharadio&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&radius=500)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&hide_progress=true&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=8)
 
-
+<!--dark-->
+<a href="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8#gh-dark-mode-only"  target="_blank">
+    <img src="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8#gh-dark-mode-only">
+  </a>
+<a href="https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=8#gh-dark-mode-only"  target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=8#gh-dark-mode-only">
+  </a>
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=yadavsharadio&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&radius=500#gh-dark-mode-only"  target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavsharadio&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&radius=500#gh-dark-mode-only">
+  </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&hide_progress=true&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=8#gh-dark-mode-only"  target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&hide_progress=true&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=8#gh-dark-mode-only">
   </a>
