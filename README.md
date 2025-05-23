@@ -108,8 +108,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
     <img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=matplotlib#gh-light-mode-only">
   </a><!--SEABORN-->  <a href="https://img.shields.io/badge/-Seaborn-ffffff?style=flat-square#gh-light-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-Seaborn-ffffff?style=flat-square#gh-light-mode-only">
-  </a>  <!--Flask--><a href="https://img.shields.io/badge/-Flask-ffffff?style=flat-square&logo=flask#gh-light-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-Flask-ffffff?style=flat-square&logo=flask#gh-light-mode-only">
+  </a>  <!--Flask--><a href="https://img.shields.io/badge/-Flask-ffffff?style=flat-square&logo=flask&logoColor=black#gh-light-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-Flask-ffffff?style=flat-square&logo=flask&logoColor=black#gh-light-mode-only">
   </a>  <!--Docker--><a href="https://img.shields.io/badge/-Docker-ffffff?style=flat-square&logo=docker#gh-light-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-Docker-ffffff?style=flat-square&logo=docker#gh-light-mode-only">
   </a>
