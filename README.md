@@ -39,16 +39,16 @@
 
 <!--dark-->
   <a href="https://linkedin.com/in/yourprofile#gh-dark-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white#gh-dark-mode-only" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-17181c?style=for-the-badge&logo=linkedin&logoColor=white#gh-dark-mode-only" alt="LinkedIn">
   </a>
   <a href="https://github.com/yadavsharadio#gh-dark-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white#gh-dark-mode-only" alt="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-17181c?style=for-the-badge&logo=github&logoColor=white#gh-dark-mode-only" alt="GitHub">
   </a>
   <a href="mailto:youremail@example.com#gh-dark-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white#gh-dark-mode-only" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-17181c?style=for-the-badge&logo=gmail&logoColor=white#gh-dark-mode-only" alt="Email">
   </a>
   <a href="https://twitter.com/yourhandle#gh-dark-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white#gh-dark-mode-only" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-17181c?style=for-the-badge&logo=twitter&logoColor=white#gh-dark-mode-only" alt="Twitter">
   </a>
   
 </div>
@@ -64,7 +64,7 @@ alt="Profile views"style=" width:60px height:30px; display:block; margin:0 auto;
 
 <!--dark-->
   <a href="https://github.com/yadavsharadio?tab=repositories#gh-dark-mode-only">
-    <img src="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=000000&style=for-the-badge#gh-dark-mode-only" 
+    <img src="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=17181c&style=for-the-badge#gh-dark-mode-only" 
          alt="Profile views" 
          style=" width:60px height:30px; display:block; margin:0 auto;">
   </a>
@@ -115,30 +115,30 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   </a>
 <!--dark-->
 <!--PYTHON-->
-<a href="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python#gh-dark-mode-only">
-  </a><!--R-->  <a href="https://img.shields.io/badge/-R-000000?style=flat-square&logo=r#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-R-000000?style=flat-square&logo=r#gh-dark-mode-only">
-  </a>  <!--SQL--><a href="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql#gh-dark-mode-only">
-  </a><!--SCIKIT_LEARN-->  <a href="https://img.shields.io/badge/-Scikit_Learn-000000?style=flat-square&logo=scikit-learn#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-Scikit_Learn-000000?style=flat-square&logo=scikit-learn#gh-dark-mode-only">
-  </a><!--Tensorflow-->  <a href="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow#gh-dark-mode-only">
-  </a><!--PYTORCH--> <a href="https://img.shields.io/badge/-Pytorch-000000?style=flat-square&logo=pytorch#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-Pytorch-000000?style=flat-square&logo=pytorch#gh-dark-mode-only">
-  </a><!--PANDAS-->  <a href="https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas#gh-dark-mode-only">
-  </a>  <!--Spark--><a href="https://img.shields.io/badge/-Spark-000000?style=flat-square&logo=apachespark#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-Spark-000000?style=flat-square&logo=apachespark#gh-dark-mode-only">
-  </a><!--Matplotlib-->  <a href="https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=matplotlib#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=matplotlib#gh-dark-mode-only">
-  </a><!--SEABORN-->  <a href="https://img.shields.io/badge/-Seaborn-000000?style=flat-square#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-Seaborn-000000?style=flat-square#gh-dark-mode-only">
-  </a>  <!--Flask--><a href="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask#gh-dark-mode-only">
-  </a>  <!--Docker--><a href="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker#gh-dark-mode-only">
+<a href="https://img.shields.io/badge/-Python-17181c?style=flat-square&logo=python#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-Python-17181c?style=flat-square&logo=python#gh-dark-mode-only">
+  </a><!--R-->  <a href="https://img.shields.io/badge/-R-17181c?style=flat-square&logo=r#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-R-17181c?style=flat-square&logo=r#gh-dark-mode-only">
+  </a>  <!--SQL--><a href="https://img.shields.io/badge/-SQL-17181c?style=flat-square&logo=postgresql#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-SQL-17181c?style=flat-square&logo=postgresql#gh-dark-mode-only">
+  </a><!--SCIKIT_LEARN-->  <a href="https://img.shields.io/badge/-Scikit_Learn-17181c?style=flat-square&logo=scikit-learn#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-Scikit_Learn-17181c?style=flat-square&logo=scikit-learn#gh-dark-mode-only">
+  </a><!--Tensorflow-->  <a href="https://img.shields.io/badge/-TensorFlow-17181c?style=flat-square&logo=tensorflow#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-TensorFlow-17181c?style=flat-square&logo=tensorflow#gh-dark-mode-only">
+  </a><!--PYTORCH--> <a href="https://img.shields.io/badge/-Pytorch-17181c?style=flat-square&logo=pytorch#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-Pytorch-17181c?style=flat-square&logo=pytorch#gh-dark-mode-only">
+  </a><!--PANDAS-->  <a href="https://img.shields.io/badge/-Pandas-17181c?style=flat-square&logo=pandas#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-Pandas-17181c?style=flat-square&logo=pandas#gh-dark-mode-only">
+  </a>  <!--Spark--><a href="https://img.shields.io/badge/-Spark-17181c?style=flat-square&logo=apachespark#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-Spark-17181c?style=flat-square&logo=apachespark#gh-dark-mode-only">
+  </a><!--Matplotlib-->  <a href="https://img.shields.io/badge/-Matplotlib-17181c?style=flat-square&logo=matplotlib#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-Matplotlib-17181c?style=flat-square&logo=matplotlib#gh-dark-mode-only">
+  </a><!--SEABORN-->  <a href="https://img.shields.io/badge/-Seaborn-17181c?style=flat-square#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-Seaborn-17181c?style=flat-square#gh-dark-mode-only">
+  </a>  <!--Flask--><a href="https://img.shields.io/badge/-Flask-17181c?style=flat-square&logo=flask#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-Flask-17181c?style=flat-square&logo=flask#gh-dark-mode-only">
+  </a>  <!--Docker--><a href="https://img.shields.io/badge/-Docker-17181c?style=flat-square&logo=docker#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-Docker-17181c?style=flat-square&logo=docker#gh-dark-mode-only">
   </a>
 </div>
 
@@ -153,7 +153,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 
 <!-- Project cards with black -->
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&border_radius=8#gh-dark-mode-only)](https://github.com/yadavsharadio/Covid-19_Analysis#gh-dark-mode-only)  [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&border_radius=8#gh-dark-mode-only)](https://github.com/yadavsharadio/Covid-19_Analysis#gh-dark-mode-only)  [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff&border_radius=8#gh-dark-mode-only)](https://github.com/yadavsharadio/Covid-19_Analysis#gh-dark-mode-only)<!-- Project cards with black borders -->
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=ffffff&text_color=ffffff&bg_color=17181c&border_color=ffffff&border_radius=8#gh-dark-mode-only)](https://github.com/yadavsharadio/Covid-19_Analysis#gh-dark-mode-only)  [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=ffffff&text_color=ffffff&bg_color=17181c&border_color=ffffff&border_radius=8#gh-dark-mode-only)](https://github.com/yadavsharadio/Covid-19_Analysis#gh-dark-mode-only)  [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=ffffff&text_color=ffffff&bg_color=17181c&border_color=ffffff&border_radius=8#gh-dark-mode-only)](https://github.com/yadavsharadio/Covid-19_Analysis#gh-dark-mode-only)<!-- Project cards with black borders -->
 
 
 </div>
@@ -182,14 +182,14 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <a href="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=17181c&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8#gh-dark-mode-only"  target="_blank">
     <img src="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=17181c&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8#gh-dark-mode-only">
   </a>
-<a href="https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=8#gh-dark-mode-only"  target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=8#gh-dark-mode-only">
+<a href="https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=17181c&hide_border=true&border_radius=8#gh-dark-mode-only"  target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=17181c&hide_border=true&border_radius=8#gh-dark-mode-only">
   </a>
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=yadavsharadio&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&radius=500#gh-dark-mode-only"  target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavsharadio&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&radius=500#gh-dark-mode-only">
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=yadavsharadio&bg_color=17181c&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&radius=500#gh-dark-mode-only"  target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavsharadio&bg_color=17181c&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&radius=500#gh-dark-mode-only">
   </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&hide_progress=true&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=8#gh-dark-mode-only"  target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&hide_progress=true&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=8#gh-dark-mode-only">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&hide_progress=true&title_color=ffffff&text_color=ffffff&bg_color=17181c&hide_border=true&border_radius=8#gh-dark-mode-only"  target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharadio&hide_progress=true&title_color=ffffff&text_color=ffffff&bg_color=17181c&hide_border=true&border_radius=8#gh-dark-mode-only">
   </a>
 
 
