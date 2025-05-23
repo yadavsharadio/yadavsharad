@@ -179,8 +179,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
   </a>
 
 <!--dark-->
-<a href="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8#gh-dark-mode-only"  target="_blank">
-    <img src="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8#gh-dark-mode-only">
+<a href="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=17181c&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8#gh-dark-mode-only"  target="_blank">
+    <img src="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=17181c&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8#gh-dark-mode-only">
   </a>
 <a href="https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=8#gh-dark-mode-only"  target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=8#gh-dark-mode-only">
