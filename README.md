@@ -90,8 +90,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <!--PYTHON-->
 <a href="https://img.shields.io/badge/-Python-ffffff?style=flat-square&logo=python#gh-light-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-Python-ffffff?style=flat-square&logo=python#gh-light-mode-only">
-  </a><!--R-->  <a href="https://img.shields.io/badge/-R-ffffff?style=flat-square&logo=r#gh-light-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-R-ffffff?style=flat-square&logo=r#gh-light-mode-only">
+  </a><!--R-->  <a href="https://img.shields.io/badge/-R-ffffff?style=flat-square&logo=r&logoColor=black#gh-light-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-R-ffffff?style=flat-square&logo=r&logoColor=black#gh-light-mode-only">
   </a>  <!--SQL--><a href="https://img.shields.io/badge/-SQL-ffffff?style=flat-square&logo=postgresql#gh-light-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-SQL-ffffff?style=flat-square&logo=postgresql#gh-light-mode-only">
   </a><!--SCIKIT_LEARN-->  <a href="https://img.shields.io/badge/-Scikit_Learn-ffffff?style=flat-square&logo=scikit-learn#gh-light-mode-only"  target="_blank">
