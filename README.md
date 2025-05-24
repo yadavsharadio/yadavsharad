@@ -100,8 +100,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
     <img src="https://img.shields.io/badge/-TensorFlow-ffffff?style=flat-square&logo=tensorflow#gh-light-mode-only">
   </a><!--PYTORCH--> <a href="https://img.shields.io/badge/-Pytorch-ffffff?style=flat-square&logo=pytorch#gh-light-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-Pytorch-ffffff?style=flat-square&logo=pytorch#gh-light-mode-only">
-  </a><!--PANDAS-->  <a href="https://img.shields.io/badge/-Pandas-ffffff?style=flat-square&logo=pandas#gh-light-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/-Pandas-ffffff?style=flat-square&logo=pandas#gh-light-mode-only">
+  </a><!--PANDAS-->  <a href="https://img.shields.io/badge/-Pandas-ffffff?style=flat-square&logo=pandas&logoColor=black#gh-light-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/-Pandas-ffffff?style=flat-square&logo=pandas&logoColor=black#gh-light-mode-only">
   </a>  <!--Spark--><a href="https://img.shields.io/badge/-Spark-ffffff?style=flat-square&logo=apachespark#gh-light-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/-Spark-ffffff?style=flat-square&logo=apachespark#gh-light-mode-only">
   </a><!--Matplotlib-->  <a href="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=matplotlib#gh-light-mode-only"  target="_blank">
