@@ -213,7 +213,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <div align="center" style="margin-top: 15px;">
  <a href="#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-light-mode-only" alt="Typing animation">
 </a>
-<a href="#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=ffffff&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-dark-mode-only" alt="Typing animation">
+<a href="#gh-dark-mode-only"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=ffffff&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-dark-mode-only" alt="Typing animation">
 </a>
 </div>
 
