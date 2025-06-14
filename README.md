@@ -165,8 +165,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <div align="center">
 
 <!--light-->
-<a href="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=ffffff&border=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&border_radius=8#gh-light-mode-only"  target="_blank">
-    <img src="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=ffffff&border=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&border_radius=8#gh-light-mode-only">
+<a href="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=ffffff&border=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&border_radius=8#gh-light-mode-only" width="100%"  target="_blank">
+    <img src="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=ffffff&border=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&border_radius=8#gh-light-mode-only" width="100%">
   </a>
 <a href="https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&border_radius=8#gh-light-mode-only"  target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&border_radius=8#gh-light-mode-only">
