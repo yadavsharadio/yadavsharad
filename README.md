@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-6.8cbd2dc.4f377d819706628d9af0659786334303.gif" width="100%">
+  <img src="https://www.clipartmax.com/png/middle/153-1532142_code-coding-css-html-java-layout-php-programming-static-website-icon-png.png" width="100%">
 </div>
 
 <div align="center">
