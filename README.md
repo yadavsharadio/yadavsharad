@@ -162,7 +162,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <h2><b>GITHUB ANALYTICS</b></h2>
 </div>
 
-<div align="centre">
+<div align="center">
 
 <!--light-->
 <a href="https://streak-stats.demolab.com?user=yadavsharadio&theme=default&background=ffffff&border=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&border_radius=8#gh-light-mode-only" width ="100%" target="_blank">
