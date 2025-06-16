@@ -188,6 +188,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 </div>
 
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=yadavsharadio)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--## 🏆 Achievements  
 
 <div align="center">
