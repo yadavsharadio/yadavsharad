@@ -26,14 +26,11 @@
 <!--light-->
   <a href="https://linkedin.com/in/yourprofile#gh-light-mode-only" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black#gh-light-mode-only" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/yadavsharadio#gh-light-mode-only" target="_blank">
+  </a><a href="https://github.com/yadavsharadio#gh-light-mode-only" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black#gh-light-mode-only" alt="GitHub">
-  </a>
-  <a href="mailto:youremail@example.com#gh-light-mode-only" target="_blank">
+  </a><a href="mailto:youremail@example.com#gh-light-mode-only" target="_blank">
     <img src="https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black#gh-light-mode-only" alt="Email">
-  </a>
-  <a href="https://twitter.com/yourhandle#gh-light-mode-only" target="_blank">
+  </a><a href="https://twitter.com/yourhandle#gh-light-mode-only" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black#gh-light-mode-only" alt="Twitter">
   </a>
 
