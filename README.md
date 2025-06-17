@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  <img src="https://www.clipartmax.com/png/middle/153-1532142_code-coding-css-html-java-layout-php-programming-static-website-icon-png.png" width="100%">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png" width="100%">
 </div>
 
 <div align="center">
