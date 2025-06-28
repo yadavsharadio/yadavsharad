@@ -9,13 +9,6 @@
   </a>
 </div>
 
-
-
-<div align="center">
-
-  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png" width="100%">
-</div>
-
 <div align="center">
 <h2><b>YADAV SHARAD</b></h2>
 <p>Research Analyst || Data Scientist || Python</p>
