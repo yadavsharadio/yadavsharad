@@ -1,5 +1,12 @@
 <div align="center">
 <!--light-->
+  <a href="https://linkedin.com/in/yourprofile#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black#gh-light-mode-only" alt="LinkedIn"></a> <a href="https://github.com/yadavsharadio#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black#gh-light-mode-only" alt="GitHub"></a> <a href="mailto:youremail@example.com#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black#gh-light-mode-only" alt="Email"></a> <a href="https://twitter.com/yourhandle#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black#gh-light-mode-only" alt="Twitter"></a>
+
+<!--dark-->
+  <a href="https://linkedin.com/in/yourprofile#gh-dark-mode-only" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-17181c?style=for-the-badge&logo=linkedin&logoColor=white#gh-dark-mode-only" alt="LinkedIn"></a> <a href="https://github.com/yadavsharadio#gh-dark-mode-only" target="_blank"><img src="https://img.shields.io/badge/-GitHub-17181c?style=for-the-badge&logo=github&logoColor=white#gh-dark-mode-only" alt="GitHub"></a> <a href="mailto:youremail@example.com#gh-dark-mode-only" target="_blank"><img src="https://img.shields.io/badge/-Email-17181c?style=for-the-badge&logo=gmail&logoColor=white#gh-dark-mode-only" alt="Email"></a> <a href="https://twitter.com/yourhandle#gh-dark-mode-only" target="_blank"><img src="https://img.shields.io/badge/-Twitter-17181c?style=for-the-badge&logo=twitter&logoColor=white#gh-dark-mode-only" alt="Twitter"></a>
+</div>
+<div align="center">
+<!--light-->
 <a href="https://your-resume-link.com#gh-light-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=ffffff#gh-light-mode-only" width="200px">
   </a>
@@ -8,17 +15,6 @@
     <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=17181c#gh-dark-mode-only" width="200px">
   </a>
 </div>
-<div align="center">
-<!--light-->
-  <a href="https://linkedin.com/in/yourprofile#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black#gh-light-mode-only" alt="LinkedIn"></a> <a href="https://github.com/yadavsharadio#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black#gh-light-mode-only" alt="GitHub"></a> <a href="mailto:youremail@example.com#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black#gh-light-mode-only" alt="Email"></a> <a href="https://twitter.com/yourhandle#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black#gh-light-mode-only" alt="Twitter"></a>
-
-<!--dark-->
-  <a href="https://linkedin.com/in/yourprofile#gh-dark-mode-only" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-17181c?style=for-the-badge&logo=linkedin&logoColor=white#gh-dark-mode-only" alt="LinkedIn"></a> <a href="https://github.com/yadavsharadio#gh-dark-mode-only" target="_blank"><img src="https://img.shields.io/badge/-GitHub-17181c?style=for-the-badge&logo=github&logoColor=white#gh-dark-mode-only" alt="GitHub"></a> <a href="mailto:youremail@example.com#gh-dark-mode-only" target="_blank"><img src="https://img.shields.io/badge/-Email-17181c?style=for-the-badge&logo=gmail&logoColor=white#gh-dark-mode-only" alt="Email"></a> <a href="https://twitter.com/yourhandle#gh-dark-mode-only" target="_blank"><img src="https://img.shields.io/badge/-Twitter-17181c?style=for-the-badge&logo=twitter&logoColor=white#gh-dark-mode-only" alt="Twitter"></a>
-  
-</div>
-
-
-
 <div align="center">
 <!--light-->
   <a href="https://github.com/yadavsharadio?tab=repositories#gh-light-mode-only">
