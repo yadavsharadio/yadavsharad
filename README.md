@@ -7,20 +7,6 @@
   <a href="https://your-resume-link.com#gh-dark-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=17181c#gh-dark-mode-only">
   </a>
-<!--Profile view-->
-<!--light-->
-  <a href="https://github.com/yadavsharadio?tab=repositories#gh-light-mode-only">
-<img src="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=000000&style=for-the-badge#gh-light-mode-only" 
-alt="Profile views"style=" width:60px height:30px; display:block; margin:0 auto;">
-  </a>
-
-<!--dark-->
-  <a href="https://github.com/yadavsharadio?tab=repositories#gh-dark-mode-only">
-    <img src="https://komarev.com/ghpvc/?username=myname&label=PROFILE+VIEWS&color=17181c&style=for-the-badge#gh-dark-mode-only" 
-         alt="Profile views" 
-         style=" width:60px height:30px; display:block; margin:0 auto;">
-  </a>
-
 </div>
 <div align="center">
 <!--light-->
