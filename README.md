@@ -1,7 +1,7 @@
 <div align="center">
 <!--light-->
 <a href="https://your-resume-link.com#gh-light-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=ffffff#gh-light-mode-only" width="325px" height="50px">
+    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=ffffff#gh-light-mode-only" width="125px" height="50px">
   </a>
 <!--dark-->
   <a href="https://your-resume-link.com#gh-dark-mode-only"  target="_blank">
