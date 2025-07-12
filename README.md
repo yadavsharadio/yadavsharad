@@ -1,3 +1,13 @@
+<div align="right">
+<!--light-->
+<a href="https://your-resume-link.com#gh-light-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=ffffff#gh-light-mode-only"">
+  </a>
+<!--dark-->
+  <a href="https://your-resume-link.com#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=17181c#gh-dark-mode-only">
+  </a>
+</div>
 <div align="center">
 <!--light-->
   <a href="https://linkedin.com/in/yourprofile#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black#gh-light-mode-only" alt="LinkedIn"></a> <a href="https://github.com/yadavsharadio#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black#gh-light-mode-only" alt="GitHub"></a> <a href="mailto:youremail@example.com#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black#gh-light-mode-only" alt="Email"></a> <a href="https://twitter.com/yourhandle#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black#gh-light-mode-only" alt="Twitter"></a>
@@ -23,18 +33,9 @@ alt="Profile views"style=" width:60px height:30px; display:block; margin:0 auto;
 </div>
 
 <div align="center">
-
 Currently navigating the world of data as a **Research Analyst** at **Fuel Intelligence**, where I transform raw information into actionable insights through statistical modeling and rigorous analysis.  
 I'm now channeling this analytical foundation toward my goal of becoming a **Data Scientist**. This transition involves deepening my expertise in machine learning algorithms, predictive modeling, and data engineering - skills I'm actively developing through projects and coursework. The bridge between these roles is built with Python, SQL, and data storytelling techniques. I'm particularly fascinated by how machine learning can elevate traditional research methodologies to create more impactful, data-driven decisions.  
 Also learning and gaining knowledge of MLOps & Could AI Development. Always open to collaborate on Open Source AI Projects.
-<!--light-->
-<a href="https://your-resume-link.com#gh-light-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=ffffff#gh-light-mode-only"">
-  </a>
-<!--dark-->
-  <a href="https://your-resume-link.com#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=17181c#gh-dark-mode-only">
-  </a>
 </div>
 
 <div align="center">
