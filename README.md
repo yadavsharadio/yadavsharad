@@ -6,7 +6,7 @@
 <!--dark-->
   <a href="https://your-resume-link.com#gh-dark-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=17181c#gh-dark-mode-only" width="200px">
-  </a><hr>
+  </a>
 </div>
 <div align="center">
 <!--light-->
