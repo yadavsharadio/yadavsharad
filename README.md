@@ -1,4 +1,4 @@
-<div align="center" style="border: 2px solid black">
+<div align="center">
 <!--light-->
 <a href="https://your-resume-link.com#gh-light-mode-only"  target="_blank">
     <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=ffffff#gh-light-mode-only">
