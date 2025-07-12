@@ -19,16 +19,6 @@ alt="Profile views"style=" width:60px height:30px; display:block; margin:0 auto;
   </a>
 </div>
 <div align="center">
-<!--light-->
-<a href="https://your-resume-link.com#gh-light-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=ffffff#gh-light-mode-only" width="200px">
-  </a>
-<!--dark-->
-  <a href="https://your-resume-link.com#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=17181c#gh-dark-mode-only" width="200px">
-  </a>
-</div>
-<div align="center">
 <h2><b>ABOUT ME</b></h2>
 </div>
 
@@ -37,6 +27,14 @@ alt="Profile views"style=" width:60px height:30px; display:block; margin:0 auto;
 Currently navigating the world of data as a **Research Analyst** at **Fuel Intelligence**, where I transform raw information into actionable insights through statistical modeling and rigorous analysis.  
 I'm now channeling this analytical foundation toward my goal of becoming a **Data Scientist**. This transition involves deepening my expertise in machine learning algorithms, predictive modeling, and data engineering - skills I'm actively developing through projects and coursework. The bridge between these roles is built with Python, SQL, and data storytelling techniques. I'm particularly fascinated by how machine learning can elevate traditional research methodologies to create more impactful, data-driven decisions.  
 Also learning and gaining knowledge of MLOps & Could AI Development. Always open to collaborate on Open Source AI Projects.
+<!--light-->
+<a href="https://your-resume-link.com#gh-light-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=ffffff#gh-light-mode-only"">
+  </a>
+<!--dark-->
+  <a href="https://your-resume-link.com#gh-dark-mode-only"  target="_blank">
+    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=17181c#gh-dark-mode-only">
+  </a>
 </div>
 
 <div align="center">
