@@ -1,11 +1,11 @@
 <div align="center">
 <!--light-->
 <a href="https://your-resume-link.com#gh-light-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=ffffff#gh-light-mode-only" width="125px" height="50px">
+    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=ffffff#gh-light-mode-only">
   </a>
 <!--dark-->
   <a href="https://your-resume-link.com#gh-dark-mode-only"  target="_blank">
-    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=17181c#gh-dark-mode-only" width="425px">
+    <img src="https://img.shields.io/badge/View Resume📥-dark?style=for-the-badge&color=17181c#gh-dark-mode-only">
   </a>
 </div>
 <div align="center">
