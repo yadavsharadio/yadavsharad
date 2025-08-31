@@ -146,7 +146,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 </details>
 
 
-<summary><strong>🧠 Deep Learning Specialization</strong></summary><details>
+<summary><strong>🧠 Deep Learning Specialization</strong></summary><>
 
 **Provider**: deeplearning.ai  
 **Status**: ![Completed](https://img.shields.io/badge/Completed-000000)  
