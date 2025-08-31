@@ -89,6 +89,9 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 <div align="center">
 <h2><b>CERTIFICATIONS</b></h2>
+</div>
+
+<div align="center">
 
 | Course | Provider | Status | Focus Area |
 |:-------|:---------|:-------|:-----------|
