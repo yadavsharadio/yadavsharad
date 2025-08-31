@@ -105,8 +105,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 ## 📜 Certificates
 
-![Google](https://github-readme-stats.vercel.app/api?username=google&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&icon_color=000000&hide_title=true)
-![AWS](https://github-readme-stats.vercel.app/api?username=aws&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&icon_color=000000&hide_title=true)
+![Google](https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&icon_color=000000&hide_title=true)
+![AWS](https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&icon_color=000000&hide_title=true)
 
 
 <div align="center" style="margin-top: 15px;">
