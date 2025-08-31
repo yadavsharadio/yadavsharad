@@ -91,50 +91,14 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <h2><b>CERTIFICATIONS</b></h2>
 </div>
 
-### 🏆 Professional Certifications
-- **Google Data Analytics Professional Certificate** - *Google*  
-  ![Status](https://img.shields.io/badge/Completed-000000?style=flat-square)  
-  *Data cleaning, analysis, visualization, and R programming*
-
-- **AWS Certified Machine Learning - Specialty** - *Amazon Web Services*  
-  ![Status](https://img.shields.io/badge/Certified-000000?style=flat-square)  
-  *ML modeling, data engineering, and deployment on AWS*
-
-- **TensorFlow Developer Certificate** - *TensorFlow*  
-  ![Status](https://img.shields.io/badge/Verified-000000?style=flat-square)  
-  *Building and training neural networks with TensorFlow*
-
-### 📚 Advanced Courses
-- **Machine Learning Specialization** - *Stanford University (Coursera)*  
-  ![Progress](https://img.shields.io/badge/Completed-000000?style=flat-square)  
-  *Supervised learning, unsupervised learning, best practices*
-
-- **Deep Learning Specialization** - *deeplearning.ai*  
-  ![Progress](https://img.shields.io/badge/Completed-000000?style=flat-square)  
-  *Neural Networks, CNNs, RNNs, and Transformers*
-
-- **Data Science MicroMasters** - *MIT (edX)*  
-  ![Progress](https://img.shields.io/badge/In_Progress-000000?style=flat-square)  
-  *Probability, data analysis, and machine learning*
-
-### 🔧 Technical Skills
-- **SQL for Data Science** - *University of California, Davis*  
-  ![Level](https://img.shields.io/badge/Advanced-000000?style=flat-square)
-
-- **Python for Everybody** - *University of Michigan*  
-  ![Level](https://img.shields.io/badge/Expert-000000?style=flat-square)
-
-- **Data Visualization with Tableau** - *Tableau*  
-  ![Level](https://img.shields.io/badge/Intermediate-000000?style=flat-square)
-
 
 | Course | Provider | Status | Focus Area |
 |:-------|:---------|:-------|:-----------|
-| **Google Data Analytics** | Google | ![Completed](https://img.shields.io/badge/Completed-000000) | Data Analysis |
-| **AWS ML Specialty** | Amazon | ![Certified](https://img.shields.io/badge/Certified-000000) | Cloud ML |
-| **TensorFlow Developer** | TensorFlow | ![Verified](https://img.shields.io/badge/Verified-000000) | Deep Learning |
-| **Machine Learning** | Stanford | ![Completed](https://img.shields.io/badge/Completed-000000) | Algorithms |
-| **Deep Learning** | deeplearning.ai | ![Completed](https://img.shields.io/badge/Completed-000000) | Neural Networks |
+| **Google Data Analytics** | ![Google](https://img.shields.io/badge/Google-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Data Analysis |
+| **AWS ML Specialty** | ![AWS](https://img.shields.io/badge/AWS-000000?style=flat) | ![Certified](https://img.shields.io/badge/Certified-000000) | Cloud ML |
+| **TensorFlow Developer** | ![TF](https://img.shields.io/badge/TensorFlow-000000?style=flat) | ![Verified](https://img.shields.io/badge/Verified-000000) | Deep Learning |
+| **Machine Learning** | ![Stanford](https://img.shields.io/badge/Stanford-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Algorithms |
+| **Deep Learning** | ![DL](https://img.shields.io/badge/DeepLearning.AI-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Neural Networks |
 
 
 <div align="center" style="margin-top: 15px;">
