@@ -106,7 +106,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 ## 📜 Certificates
 
 [![Google Analytics](https://github-readme-stats.vercel.app/api/pin/?username=google&repo=data-analytics-certificate&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://www.udemy.com/certificate/UC-37d2a7da-e792-45ca-b0fa-6f6efbd4c0e3/)
-[![AWS ML](https://github-readme-stats.vercel.app/api/pin/?username=aws&repo=ml-specialty-certificate&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](Check out this certificate I got for The Ultimate Power BI Course: Build Real Time Projects https://www.udemy.com/certificate/UC-37d2a7da-e792-45ca-b0fa-6f6efbd4c0e3/)
+[![AWS ML](https://github-readme-stats.vercel.app/api/pin/?username=aws&repo=ml-specialty-certificate&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://www.udemy.com/certificate/UC-37d2a7da-e792-45ca-b0fa-6f6efbd4c0e3/)
 
 
 <div align="center" style="margin-top: 15px;">
