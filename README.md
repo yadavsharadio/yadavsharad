@@ -105,56 +105,20 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 ## 📜 Certificates
 
-
-<summary><strong>🏆 Google Data Analytics Professional Certificate</strong></summary><details>
-
-**Provider**: Google  
-**Status**: ![Completed](https://img.shields.io/badge/Completed-000000)  
-**Focus Area**: Data Analysis & Visualization  
-**Skills**: R, SQL, Tableau, Data Cleaning
-
+<details>
+<summary>▸ Google Data Analytics</summary>
+**Provider**: Google • ![Completed](https://img.shields.io/badge/Completed-000000)
 </details>
 
-
-<summary><strong>☁️ AWS Certified Machine Learning - Specialty</strong></summary><details>
-
-**Provider**: Amazon Web Services  
-**Status**: ![Certified](https://img.shields.io/badge/Certified-000000)  
-**Focus Area**: Cloud Machine Learning  
-**Skills**: SageMaker, ML Modeling, AWS Deployment
-
+<details>
+<summary>▸ AWS ML Specialty</summary>
+**Provider**: AWS • ![Certified](https://img.shields.io/badge/Certified-000000)
 </details>
 
-
-<summary><strong>🤖 TensorFlow Developer Certificate</strong></summary><details>
-
-**Provider**: TensorFlow  
-**Status**: ![Verified](https://img.shields.io/badge/Verified-000000)  
-**Focus Area**: Deep Learning & AI  
-**Skills**: Neural Networks, CNN, RNN, TensorFlow
-
+<details>
+<summary>▸ TensorFlow Developer</summary>
+**Provider**: TensorFlow • ![Verified](https://img.shields.io/badge/Verified-000000)
 </details>
-
-
-<summary><strong>📈 Machine Learning Specialization</strong></summary><details>
-
-**Provider**: Stanford University  
-**Status**: ![Completed](https://img.shields.io/badge/Completed-000000)  
-**Focus Area**: ML Algorithms  
-**Skills**: Supervised Learning, Unsupervised Learning
-
-</details>
-
-
-<summary><strong>🧠 Deep Learning Specialization</strong></summary><details>
-
-**Provider**: deeplearning.ai  
-**Status**: ![Completed](https://img.shields.io/badge/Completed-000000)  
-**Focus Area**: Neural Networks  
-**Skills**: Deep Learning, Transformers, NLP
-
-</details>
-
 
 
 <div align="center" style="margin-top: 15px;">
