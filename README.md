@@ -95,7 +95,15 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 ▶️ [Data Visualization with Python](https://youtube.com/link2)  
 ▶️ [Machine Learning Deployment Guide](https://youtube.com/link3)  
 
-[![TensorFlow Developer](https://img.shields.io/badge/TensorFlow-Developer-000000?style=for-the-badge&logo=tensorflow)](https://www.credential.net/your-certificate-id)
+
+| Course | Provider | Status | Focus Area |
+|:-------|:---------|:-------|:-----------|
+| **Google Data Analytics** | Google | ![Completed](https://img.shields.io/badge/Completed-000000) | Data Analysis |
+| **AWS ML Specialty** | Amazon | ![Certified](https://img.shields.io/badge/Certified-000000) | Cloud ML |
+| **TensorFlow Developer** | TensorFlow | ![Verified](https://img.shields.io/badge/Verified-000000) | Deep Learning |
+| **Machine Learning** | Stanford | ![Completed](https://img.shields.io/badge/Completed-000000) | Algorithms |
+| **Deep Learning** | deeplearning.ai | ![Completed](https://img.shields.io/badge/Completed-000000) | Neural Networks |
+```
 
 
 <div align="center" style="margin-top: 15px;">
