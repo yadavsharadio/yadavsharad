@@ -91,9 +91,41 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <h2><b>CERTIFICATIONS</b></h2>
 </div>
 
-▶️ [How I Built an AI Chatbot](https://youtube.com/link1)  
-▶️ [Data Visualization with Python](https://youtube.com/link2)  
-▶️ [Machine Learning Deployment Guide](https://youtube.com/link3)  
+### 🏆 Professional Certifications
+- **Google Data Analytics Professional Certificate** - *Google*  
+  ![Status](https://img.shields.io/badge/Completed-000000?style=flat-square)  
+  *Data cleaning, analysis, visualization, and R programming*
+
+- **AWS Certified Machine Learning - Specialty** - *Amazon Web Services*  
+  ![Status](https://img.shields.io/badge/Certified-000000?style=flat-square)  
+  *ML modeling, data engineering, and deployment on AWS*
+
+- **TensorFlow Developer Certificate** - *TensorFlow*  
+  ![Status](https://img.shields.io/badge/Verified-000000?style=flat-square)  
+  *Building and training neural networks with TensorFlow*
+
+### 📚 Advanced Courses
+- **Machine Learning Specialization** - *Stanford University (Coursera)*  
+  ![Progress](https://img.shields.io/badge/Completed-000000?style=flat-square)  
+  *Supervised learning, unsupervised learning, best practices*
+
+- **Deep Learning Specialization** - *deeplearning.ai*  
+  ![Progress](https://img.shields.io/badge/Completed-000000?style=flat-square)  
+  *Neural Networks, CNNs, RNNs, and Transformers*
+
+- **Data Science MicroMasters** - *MIT (edX)*  
+  ![Progress](https://img.shields.io/badge/In_Progress-000000?style=flat-square)  
+  *Probability, data analysis, and machine learning*
+
+### 🔧 Technical Skills
+- **SQL for Data Science** - *University of California, Davis*  
+  ![Level](https://img.shields.io/badge/Advanced-000000?style=flat-square)
+
+- **Python for Everybody** - *University of Michigan*  
+  ![Level](https://img.shields.io/badge/Expert-000000?style=flat-square)
+
+- **Data Visualization with Tableau** - *Tableau*  
+  ![Level](https://img.shields.io/badge/Intermediate-000000?style=flat-square)
 
 
 | Course | Provider | Status | Focus Area |
@@ -103,7 +135,6 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 | **TensorFlow Developer** | TensorFlow | ![Verified](https://img.shields.io/badge/Verified-000000) | Deep Learning |
 | **Machine Learning** | Stanford | ![Completed](https://img.shields.io/badge/Completed-000000) | Algorithms |
 | **Deep Learning** | deeplearning.ai | ![Completed](https://img.shields.io/badge/Completed-000000) | Neural Networks |
-```
 
 
 <div align="center" style="margin-top: 15px;">
