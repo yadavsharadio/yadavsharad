@@ -103,12 +103,11 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 </div>
 
-
 ## 📜 Certificates
 
-| Google Data Analytics | Google | ![Completed](https://img.shields.io/badge/Completed-000000) |
-| AWS ML Specialty | Amazon | ![Certified](https://img.shields.io/badge/Certified-000000) |
-| TensorFlow Developer | TensorFlow | ![Verified](https://img.shields.io/badge/Verified-000000) |
+[![Google Analytics](https://github-readme-stats.vercel.app/api/pin/?username=google&repo=data-analytics-certificate&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://)
+[![AWS ML](https://github-readme-stats.vercel.app/api/pin/?username=aws&repo=ml-specialty-certificate&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://)
+
 
 <div align="center" style="margin-top: 15px;">
  <a href="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-light-mode-only" alt="Typing animation">
