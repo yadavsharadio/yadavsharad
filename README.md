@@ -92,7 +92,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 </div>
 
 <div align="center">
-
+|link@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@# |
+|:----------------------------------------|
 | Course | Provider | Status | Focus Area |
 |:-------|:---------|:-------|:-----------|
 | **Google Data Analytics** | ![Google](https://img.shields.io/badge/Google-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Data Analysis |
