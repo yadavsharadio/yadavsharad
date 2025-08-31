@@ -105,8 +105,11 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 ## 📜 Certificates
 
-![Google](https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&icon_color=000000&hide_title=true)
-![AWS](https://github-readme-stats.vercel.app/api?username=yadavsharadio&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&icon_color=000000&hide_title=true)
+[![Certificate](https://img.shields.io/badge/📜_Google_Data_Analytics-000000?style=flat-square)](https://)
+[![Status](https://img.shields.io/badge/✅_Completed-000000?style=flat-square)](https://)
+
+[![Certificate](https://img.shields.io/badge/📜_AWS_ML_Specialty-000000?style=flat-square)](https://)
+[![Status](https://img.shields.io/badge/🏆_Certified-000000?style=flat-square)](https://)
 
 
 <div align="center" style="margin-top: 15px;">
