@@ -89,8 +89,6 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 <div align="center">
 <h2><b>CERTIFICATIONS</b></h2>
-</div>
-
 
 | Course | Provider | Status | Focus Area |
 |:-------|:---------|:-------|:-----------|
@@ -100,6 +98,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 | **Machine Learning** | ![Stanford](https://img.shields.io/badge/Stanford-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Algorithms |
 | **Deep Learning** | ![DL](https://img.shields.io/badge/DeepLearning.AI-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Neural Networks |
 
+</div>
 
 <div align="center" style="margin-top: 15px;">
  <a href="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-light-mode-only" alt="Typing animation">
