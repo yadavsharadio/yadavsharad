@@ -92,7 +92,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 </div>
 
 <div align="center">
-|link@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@# |
+
+| link@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@# |
 |:----------------------------------------|
 | Course | Provider | Status | Focus Area |
 |:-------|:---------|:-------|:-----------|
