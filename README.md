@@ -29,7 +29,7 @@ alt="Profile views"style=" width:60px height:30px; display:block; margin:0 auto;
   </a>
 </div>
 <div align="center">
-<p style=" width:100%; display:inline-block;">ABOUT ME</p>
+<h2><b>ABOUT ME</b></h2>
 </div>
 
 <div align="center">
