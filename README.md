@@ -105,8 +105,8 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 ## 📜 Certificates
 
-[![Google Analytics](https://github-readme-stats.vercel.app/api/pin/?username=google&repo=data-analytics-certificate&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://github.com/yadavsharadio/Covid-19_Analysis)
-[![AWS ML](https://github-readme-stats.vercel.app/api/pin/?username=aws&repo=ml-specialty-certificate&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000)](https://github.com/yadavsharadio/Covid-19_Analysis)
+![Google](https://github-readme-stats.vercel.app/api?username=google&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&icon_color=000000&hide_title=true)
+![AWS](https://github-readme-stats.vercel.app/api?username=aws&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&icon_color=000000&hide_title=true)
 
 
 <div align="center" style="margin-top: 15px;">
