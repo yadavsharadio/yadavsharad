@@ -155,6 +155,40 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 </details>
 
+
+## 📜 Certificates
+
+**🏆 Google Data Analytics Professional Certificate**  
+`Google` • ![Completed](https://img.shields.io/badge/Completed-000000)  
+📊 **Focus**: Data Analysis & Visualization  
+📍 **Skills**: R, SQL, Tableau, Data Cleaning  
+---
+
+**☁️ AWS Certified Machine Learning - Specialty**  
+`Amazon Web Services` • ![Certified](https://img.shields.io/badge/Certified-000000)  
+🤖 **Focus**: Cloud Machine Learning  
+📍 **Skills**: SageMaker, ML Modeling, AWS Deployment  
+---
+
+**🤖 TensorFlow Developer Certificate**  
+`TensorFlow` • ![Verified](https://img.shields.io/badge/Verified-000000)  
+🧠 **Focus**: Deep Learning & AI  
+📍 **Skills**: Neural Networks, CNN, RNN, TensorFlow  
+---
+
+**📈 Machine Learning Specialization**  
+`Stanford University` • ![Completed](https://img.shields.io/badge/Completed-000000)  
+📊 **Focus**: ML Algorithms  
+📍 **Skills**: Supervised Learning, Unsupervised Learning  
+---
+
+**🧠 Deep Learning Specialization**  
+`deeplearning.ai` • ![Completed](https://img.shields.io/badge/Completed-000000)  
+🧠 **Focus**: Neural Networks  
+📍 **Skills**: Deep Learning, Transformers, NLP  
+---
+
+
 <div align="center" style="margin-top: 15px;">
  <a href="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-light-mode-only" alt="Typing animation">
 </a>
