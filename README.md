@@ -106,14 +106,14 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 ## 📜 Certificates
 
-> **Google Data Analytics**  
-> Provider: Google • Status: ![Completed](https://img.shields.io/badge/Completed-000000)
+**Google Data Analytics**  
+`Google` • ![Completed](https://img.shields.io/badge/Completed-000000)
 
-> **AWS ML Specialty**  
-> Provider: Amazon • Status: ![Certified](https://img.shields.io/badge/Certified-000000)
+**AWS ML Specialty**  
+`Amazon` • ![Certified](https://img.shields.io/badge/Certified-000000)
 
-> **TensorFlow Developer**  
-> Provider: TensorFlow • Status: ![Verified](https://img.shields.io/badge/Verified-000000)
+**TensorFlow Developer**  
+`TensorFlow` • ![Verified](https://img.shields.io/badge/Verified-000000)
 
 
 <div align="center" style="margin-top: 15px;">
