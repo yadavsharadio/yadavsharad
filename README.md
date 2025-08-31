@@ -105,21 +105,9 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 ## 📜 Certificates
 
-<details>
-<summary>▸ Google Data Analytics</summary>
-**Provider**: Google • ![Completed](https://img.shields.io/badge/Completed-000000)
-</details>
-
-<details>
-<summary>▸ AWS ML Specialty</summary>
-**Provider**: AWS • ![Certified](https://img.shields.io/badge/Certified-000000)
-</details>
-
-<details>
-<summary>▸ TensorFlow Developer</summary>
-**Provider**: TensorFlow • ![Verified](https://img.shields.io/badge/Verified-000000)
-</details>
-
+[![Google Analytics](https://img.shields.io/badge/Google_Data_Analytics-000000?style=flat)](https://)
+[![AWS ML](https://img.shields.io/badge/AWS_ML_Specialty-000000?style=flat)](https://)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow_Developer-000000?style=flat)](https://)
 
 <div align="center" style="margin-top: 15px;">
  <a href="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-light-mode-only" alt="Typing animation">
