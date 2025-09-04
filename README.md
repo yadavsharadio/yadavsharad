@@ -85,7 +85,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 | **Machine Learning** | ![Stanford](https://img.shields.io/badge/Stanford-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Algorithms |
 | **Deep Learning** | ![DL](https://img.shields.io/badge/DeepLearning.AI-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Neural Networks |
 
-<table style="width:320px;">
+<table width="320px" align="center">
         <thead>
             <tr>
                 <th>Course</th>
