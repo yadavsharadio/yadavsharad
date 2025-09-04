@@ -75,6 +75,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 </div>
 
 <div align="center">
+<center>
 
 | Course | Provider | Status | Focus Area |
 |:-------|:---------|:-------|:-----------|
@@ -126,7 +127,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
             </tr>
         </tbody>
     </table>
-
+</center>
 </div>
 
 
