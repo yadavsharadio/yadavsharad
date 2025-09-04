@@ -75,7 +75,6 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 </div>
 
 <div align="center">
-<p palign="center">
 
 | Course | Provider | Status | Focus Area |
 |:-------|:---------|:-------|:-----------|
@@ -85,7 +84,49 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 | **Machine Learning** | ![Stanford](https://img.shields.io/badge/Stanford-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Algorithms |
 | **Deep Learning** | ![DL](https://img.shields.io/badge/DeepLearning.AI-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Neural Networks |
 
-</p>
+<table>
+        <thead>
+            <tr>
+                <th>Course</th>
+                <th>Provider</th>
+                <th>Status</th>
+                <th>Focus Area</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Google Data Analytics</td>
+                <td>Google</td>
+                <td>100%</td>
+                <td>Data Analysis</td>
+            </tr>
+            <tr>
+                <td>AWS ML Specialty</td>
+                <td>AWS</td>
+                <td>Certified</td>
+                <td>Cloud ML</td>
+            </tr>
+            <tr>
+                <td>TensorFlow Developer</td>
+                <td>TensorFlow</td>
+                <td>Verified</td>
+                <td>Deep Learning</td>
+            </tr>
+            <tr>
+                <td>Machine Learning</td>
+                <td>Stanford</td>
+                <td>100%</td>
+                <td>Algorithms</td>
+            </tr>
+            <tr>
+                <td>Deep Learning</td>
+                <td>DeepLearning AI</td>
+                <td>100%</td>
+                <td>Neural Networks</td>
+            </tr>
+        </tbody>
+    </table>
+
 </div>
 
 
