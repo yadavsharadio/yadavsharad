@@ -69,6 +69,24 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 
 </div>
 
+
+<div align="center">
+<h2><b>CERTIFICATIONS</b></h2>
+</div>
+
+<div align="center">
+
+| Course | Provider | Status | Focus Area |
+|:-------|:---------|:-------|:-----------|
+| **Google Data Analytics** | ![Google](https://img.shields.io/badge/Google-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Data Analysis |
+| **AWS ML Specialty** | ![AWS](https://img.shields.io/badge/AWS-000000?style=flat) | ![Certified](https://img.shields.io/badge/Certified-000000) | Cloud ML |
+| **TensorFlow Developer** | ![TF](https://img.shields.io/badge/TensorFlow-000000?style=flat) | ![Verified](https://img.shields.io/badge/Verified-000000) | Deep Learning |
+| **Machine Learning** | ![Stanford](https://img.shields.io/badge/Stanford-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Algorithms |
+| **Deep Learning** | ![DL](https://img.shields.io/badge/DeepLearning.AI-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Neural Networks |
+
+</div>
+
+
 <div align="center">
 <h2><b>GITHUB ANALYTICS</b></h2>
 </div>
@@ -86,22 +104,6 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=7" alt="Trophies">
 </div>-->
-
-<div align="center">
-<h2><b>CERTIFICATIONS</b></h2>
-</div>
-
-<div align="center">
-
-| Course | Provider | Status | Focus Area |
-|:-------|:---------|:-------|:-----------|
-| **Google Data Analytics** | ![Google](https://img.shields.io/badge/Google-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Data Analysis |
-| **AWS ML Specialty** | ![AWS](https://img.shields.io/badge/AWS-000000?style=flat) | ![Certified](https://img.shields.io/badge/Certified-000000) | Cloud ML |
-| **TensorFlow Developer** | ![TF](https://img.shields.io/badge/TensorFlow-000000?style=flat) | ![Verified](https://img.shields.io/badge/Verified-000000) | Deep Learning |
-| **Machine Learning** | ![Stanford](https://img.shields.io/badge/Stanford-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Algorithms |
-| **Deep Learning** | ![DL](https://img.shields.io/badge/DeepLearning.AI-000000?style=flat) | ![100%](https://img.shields.io/badge/100%25-000000) | Neural Networks |
-
-</div>
 
 
 <div align="center" style="margin-top: 15px;">
