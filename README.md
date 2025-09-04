@@ -77,14 +77,6 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <div>
 <center>
 
-| Course | Provider | Status | Focus Area |
-|:-------|:---------|:-------|:-----------|
-| **Google Data Analytics** | ![Google](https://img.shields.io/badge/Google-000000?style=flat#gh-light-mode-only)(https://img.shields.io/badge/Google-ffffff?style=flat#gh-dark-mode-only)| ![100%](https://img.shields.io/badge/100%25-000000#gh-light-mode-only) | Data Analysis |
-| **AWS ML Specialty** | ![AWS](https://img.shields.io/badge/AWS-000000?style=flat#gh-light-mode-only)(https://img.shields.io/badge/AWS-ffffff?style=flat#gh-dark-mode-only) | ![Certified](https://img.shields.io/badge/Certified-000000#gh-light-mode-only)(https://img.shields.io/badge/Certified-ffffff#gh-dark-mode-only) | Cloud ML |
-| **TensorFlow Developer** | ![TF](https://img.shields.io/badge/TensorFlow-000000?style=flat#gh-light-mode-only)(https://img.shields.io/badge/TensorFlow-ffffff?style=flat#gh-dark-mode-only) | ![Verified](https://img.shields.io/badge/Verified-000000#gh-light-mode-only)(https://img.shields.io/badge/Verified-ffffff#gh-dark-mode-only) | Deep Learning |
-| **Machine Learning** | ![Stanford](https://img.shields.io/badge/Stanford-000000?style=flat#gh-light-mode-only)(https://img.shields.io/badge/Stanford-ffffff?style=flat#gh-dark-mode-only) | ![100%](https://img.shields.io/badge/100%25-000000#gh-light-mode-only)(https://img.shields.io/badge/100%25-ffffff#gh-dark-mode-only) | Algorithms |
-| **Deep Learning** | ![DL](https://img.shields.io/badge/DeepLearning.AI-000000?style=flat#gh-light-mode-only)(https://img.shields.io/badge/DeepLearning.AI-ffffff?style=flat#gh-dark-mode-only) | ![100%](https://img.shields.io/badge/100%25-000000#gh-light-mode-only)(https://img.shields.io/badge/100%25-ffffff#gh-dark-mode-only) | Neural Networks |
-
 <table width="320px" align="center">
         <thead>
             <tr>
