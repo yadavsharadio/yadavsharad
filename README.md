@@ -77,7 +77,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <div>
 <center>
 
-<table width="320px" align="center">
+<table width="100%" align="center">
         <thead>
             <tr>
                 <th>Course</th>
