@@ -34,8 +34,8 @@ alt="Profile views"style=" width:60px height:30px; display:block; margin:0 auto;
 
 <div align="center">
 
-Currently navigating the world of data as a **Research Analyst** at **company name**, where I transform raw information into actionable insights through statistical modeling and rigorous analysis.  
-I'm now channeling this analytical foundation toward my goal of becoming a **Data Scientist**. This transition involves deepening my expertise in machine learning algorithms, predictive modeling, and data engineering - skills I'm actively developing through projects and coursework. The bridge between these roles is built with Python, SQL, and data storytelling techniques. I'm particularly fascinated by how machine learning can elevate traditional research methodologies to create more impactful, data-driven decisions.  
+Currently navigating the world of data as a **Current Job Role** at **company name**, where I transform raw information into actionable insights through statistical modeling and rigorous analysis.  
+I'm now channeling this analytical foundation toward my goal of becoming a **Future Job**. This transition involves deepening my expertise in machine learning algorithms, predictive modeling, and data engineering - skills I'm actively developing through projects and coursework. The bridge between these roles is built with Python, SQL, and data storytelling techniques. I'm particularly fascinated by how machine learning can elevate traditional research methodologies to create more impactful, data-driven decisions.  
 Also learning and gaining knowledge of MLOps & Could AI Development. Always open to collaborate on Open Source AI Projects.
 
 </div>
