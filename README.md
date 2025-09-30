@@ -83,7 +83,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
                 <th>Course</th>
                 <th>Provider</th>
                 <th>Status</th>
-                <th>Focus Area</th>
+                <th>Certificate</th>
             </tr>
         </thead>
         <tbody>
