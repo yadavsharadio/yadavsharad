@@ -115,7 +115,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
                 <td>Deep Learning</td>
                 <td>DeepLearning AI</td>
                 <td>100%</td>
-                <td><a>view certificate</a></td>
+                <td><a href="www.google.com">view certificate</a></td>
             </tr>
         </tbody>
     </table>
