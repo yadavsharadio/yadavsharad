@@ -91,31 +91,31 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
                 <td>Google Data Analytics</td>
                 <td>Google</td>
                 <td>100%</td>
-                <td>Data Analysis</td>
+                <td><a>view certificate</a></td>
             </tr>
             <tr>
                 <td>AWS ML Specialty</td>
                 <td>AWS</td>
                 <td>Certified</td>
-                <td>Cloud ML</td>
+                <td><a>view certificate</a></td>
             </tr>
             <tr>
                 <td>TensorFlow Developer</td>
                 <td>TensorFlow</td>
                 <td>Verified</td>
-                <td>Deep Learning</td>
+                <td><a>view certificate</a></td>
             </tr>
             <tr>
                 <td>Machine Learning</td>
                 <td>Stanford</td>
                 <td>100%</td>
-                <td>Algorithms</td>
+                <td><a>view certificate</a></td>
             </tr>
             <tr>
                 <td>Deep Learning</td>
                 <td>DeepLearning AI</td>
                 <td>100%</td>
-                <td>Neural Networks</td>
+                <td><a>view certificate</a></td>
             </tr>
         </tbody>
     </table>
