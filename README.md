@@ -149,5 +149,3 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 </a>
 </div>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&border_radius=8)](https://github.com/USERNAME/REPO_NAME)
