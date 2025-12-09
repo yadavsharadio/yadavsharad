@@ -148,7 +148,3 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <a href="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=ffffff&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-dark-mode-only"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=18&duration=3000&pause=1000&color=ffffff&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Let's+collaborate+on+something+amazing;Open+to+new+opportunities;Always+happy+to+connect;#gh-dark-mode-only" alt="Typing animation">
 </a>
 </div>
-
-<--
-<a href="https://github.com/yadavsharadio/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-!-->
