@@ -149,6 +149,6 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 </a>
 </div>
 
+<--
 <a href="https://github.com/yadavsharadio/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-
-[![Project 1](https://yadavsharadio -github-readme-stats.vercel.app/api/pin/?username=yadavsharadio&repo=Covid-19_Analysis&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&border_radius=8#gh-light-mode-only)](https://github.com/yadavsharadio/Covid-19_Analysis#gh-light-mode-only)
+--!>
