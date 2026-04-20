@@ -74,7 +74,7 @@ Also learning and gaining knowledge of MLOps & Could AI Development. Always open
 <h2><b>CERTIFICATIONS</b></h2>
 </div>
 
-<div>
+<div align="center">
 <center>
 
 <table width="100%" align="center">
